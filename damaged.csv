@@ -1,0 +1,844 @@
+Death,Taxa,Age,Skeletal_region_2,Size,N.Pits,N.Scores,N.Fracures,N.Crushing,N.Peeling,N.Cren.Edge,N.Furrowing,Area_Scores,Area_crushing,Area_crenulated_edge,Area_furrowing,Area_Pits,Area_fracture,Area_peeling
+Predation Scavenging,string,ad inf juv neo sen,Appendicular Axial Cranial Girdles Rib V.\ Cervical V.\ Lumbar V.\ Thoracic,Large Small,continuous,continuous,continuous,continuous,continuous,continuous,continuous,0 dist_shaft other shaft spinous_process,0 dist_shaft other shaft spinous_process transverse_process,0 other spinous_process transverse_process,0 body other,0 body dist_shaft other shaft spinous_process transverse_process,0 dist_shaft neck other shaft spinous_process transverse_process,0 dist_shaft other spinous_process transverse_process
+class,meta,,,,,,,,,,,,,,,,,
+Predation,Ovis aries 11,inf,V. Thoracic,Small,0,0,0,0,1,0,0,0,0,0,0,0,0,spinous_process
+Predation,Equus caballus 36,inf,Rib,Small,0,1,0,1,0,0,0,dist_shaft,dist_shaft,0,0,0,0,0
+Predation,Ovis aries 11,inf,V. Cervical,Small,8,5,0,3,0,0,1,spinous_process,other,0,body,other,0,0
+Scavenging,Cervus elaphus 4,juv,Appendicular,Large,0,0,0,1,0,0,0,0,other,0,0,0,0,0
+Scavenging,Equus caballus 1,ad,Rib,Large,5,9,1,0,0,0,0,shaft,0,0,0,shaft,shaft,0
+Predation,Ovis aries 10,ad,V. Lumbar,Small,0,0,0,0,1,0,0,0,0,0,0,0,0,transverse_process
+Scavenging,Cervus elaphus 6,ad,V. Cervical,Large,0,0,0,0,0,1,0,0,0,spinous_process,0,0,0,0
+Scavenging,Equus caballus 35,inf,Axial,Small,0,0,0,1,0,0,0,0,spinous_process,0,0,0,0,0
+Scavenging,Equus caballus 35,inf,V. Cervical,Small,0,0,0,2,0,0,0,0,other,0,0,0,0,0
+Predation,Equus caballus 20,inf,V. Lumbar,Small,0,0,0,2,0,0,1,0,transverse_process,0,other,0,0,0
+Predation,Equus caballus 36,inf,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Scavenging,Capreolus capreolus 5,juv,Girdles,Small,0,0,0,0,0,1,0,0,0,other,0,0,0,0
+Predation,Ovis aries 10,ad,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Scavenging,Cervus elaphus 6,ad,Rib,Large,0,0,1,0,0,0,0,0,0,0,0,0,other,0
+Predation,Ovis aries 44,ad,V. Cervical,Small,0,0,0,3,0,0,0,0,transverse_process,0,0,0,0,0
+Scavenging,Equus caballus 1,ad,Appendicular,Large,0,0,0,0,0,0,1,0,0,0,other,0,0,0
+Scavenging,Cervus elaphus 4,juv,V. Lumbar,Large,0,0,0,1,0,0,0,0,spinous_process,0,0,0,0,0
+Scavenging,Equus caballus 35,inf,V. Lumbar,Small,0,0,0,3,0,0,0,0,spinous_process,0,0,0,0,0
+Predation,Ovis aries 19,ad,V. Thoracic,Small,0,0,1,0,0,0,0,0,0,0,0,0,spinous_process,0
+Predation,Sus scrofa 29,juv,V. Thoracic,Small,0,0,1,0,0,0,0,0,0,0,0,0,spinous_process,0
+Predation,Ovis aries 25,ad,V. Thoracic,Small,0,0,0,1,0,0,0,0,spinous_process,0,0,0,0,0
+Scavenging,Capreolus capreolus 5,juv,V. Cervical,Small,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Scavenging,Capreolus capreolus 2,ad,Rib,Small,0,0,0,0,1,0,0,0,0,0,0,0,0,dist_shaft
+Predation,Ovis aries 24,ad,V. Thoracic,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Predation,Ovis aries 44,ad,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Predation,Equus caballus 36,inf,V. Thoracic,Small,0,0,0,2,0,0,0,0,spinous_process,0,0,0,0,0
+Scavenging,Cervus elaphus 16,juv,V. Cervical,Large,0,0,0,3,0,0,0,0,spinous_process,0,0,0,0,0
+Predation,Ovis aries 17,sen,V. Thoracic,Small,0,0,0,1,0,0,0,0,spinous_process,0,0,0,0,0
+Predation,Ovis aries 18,juv,Appendicular,Small,0,0,1,1,0,0,0,0,shaft,0,0,0,shaft,0
+Scavenging,Equus caballus 1,ad,V. Cervical,Large,2,0,1,0,0,0,0,0,0,0,0,spinous_process,spinous_process,0
+Predation,Ovis aries 18,juv,Appendicular,Small,2,2,1,0,0,0,0,shaft,0,0,0,shaft,shaft,0
+Scavenging,Capreolus capreolus 2,ad,V. Lumbar,Small,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Scavenging,Cervus elaphus 16,juv,Rib,Large,4,0,0,1,0,0,0,0,dist_shaft,0,0,dist_shaft,0,0
+Predation,Ovis aries 10,ad,Rib,Small,0,4,0,1,0,0,0,dist_shaft,dist_shaft,0,0,0,0,0
+Predation,Ovis aries 44,ad,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Scavenging,Cervus elaphus 15,juv,Rib,Large,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Predation,Ovis aries 44,ad,V. Thoracic,Small,1,0,0,0,0,0,0,0,0,0,0,spinous_process,0,0
+Predation,Ovis aries 25,ad,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Predation,Ovis aries 8,sen,V. Lumbar,Small,0,0,0,0,2,0,0,0,0,0,0,0,0,transverse_process
+Scavenging,Cervus elaphus 15,juv,Rib,Large,0,0,1,1,0,0,0,0,dist_shaft,0,0,0,dist_shaft,0
+Scavenging,Cervus elaphus 15,juv,V. Thoracic,Large,0,0,1,0,0,0,0,0,0,0,0,0,transverse_process,0
+Predation,Ovis aries 18,juv,Rib,Small,1,0,1,0,0,0,0,0,0,0,0,other,neck,0
+Predation,Equus caballus 20,inf,V. Thoracic,Small,0,0,0,1,0,0,0,0,spinous_process,0,0,0,0,0
+Predation,Ovis aries 30,ad,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Predation,Equus caballus 20,inf,V. Thoracic,Small,0,0,0,1,0,0,0,0,spinous_process,0,0,0,0,0
+Scavenging,Cervus elaphus 6,ad,V. Cervical,Large,0,0,1,1,0,0,0,0,transverse_process,0,0,0,spinous_process,0
+Scavenging,Equus caballus 1,ad,V. Lumbar,Large,0,0,2,0,1,0,0,0,0,0,0,0,spinous_process,transverse_process
+Predation,Ovis aries 25,ad,Appendicular,Small,6,4,1,0,0,0,1,other,0,0,other,other,other,0
+Predation,Equus caballus 20,inf,V. Thoracic,Small,0,0,0,1,0,0,0,0,spinous_process,0,0,0,0,0
+Scavenging,Cervus elaphus 6,ad,Appendicular,Large,0,7,0,0,0,0,1,other,0,0,other,0,0,0
+Scavenging,Cervus elaphus 6,ad,V. Thoracic,Large,0,0,0,0,0,1,0,0,0,spinous_process,0,0,0,0
+Predation,Ovis aries 18,juv,Axial,Small,0,0,1,1,0,0,0,0,other,0,0,0,other,0
+Scavenging,Capreolus capreolus 3,ad,Axial,Small,4,6,0,0,0,0,1,other,0,0,body,body,0,0
+Predation,Ovis aries 13,ad,Rib,Small,3,0,0,0,1,0,0,0,0,0,0,dist_shaft,0,dist_shaft
+Predation,Ovis aries 10,ad,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Scavenging,Capreolus capreolus 2,ad,Rib,Small,9,0,0,0,0,0,0,0,0,0,0,dist_shaft,0,0
+Scavenging,Equus caballus 35,inf,V. Lumbar,Small,0,0,0,3,0,0,0,0,spinous_process,0,0,0,0,0
+Scavenging,Cervus elaphus 16,juv,Rib,Large,10,0,0,1,0,0,0,0,dist_shaft,0,0,dist_shaft,0,0
+Predation,Equus caballus 36,inf,V. Thoracic,Small,2,0,0,1,0,0,0,0,spinous_process,0,0,transverse_process,0,0
+Predation,Ovis aries 19,ad,Axial,Small,0,1,1,0,0,0,0,other,0,0,0,0,other,0
+Predation,Ovis aries 34,ad,V. Lumbar,Small,0,0,0,2,0,0,0,0,transverse_process,0,0,0,0,0
+Scavenging,Capreolus capreolus 2,ad,V. Thoracic,Small,0,0,1,0,0,0,0,0,0,0,0,0,spinous_process,0
+Scavenging,Equus caballus 41,inf,V. Thoracic,Small,1,0,0,3,0,0,0,0,transverse_process,0,0,transverse_process,0,0
+Predation,Ovis aries 10,ad,V. Lumbar,Small,1,2,0,0,2,0,0,other,0,0,0,other,0,transverse_process
+Predation,Ovis aries 19,ad,Rib,Small,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Scavenging,Capreolus capreolus 5,juv,V. Lumbar,Small,0,0,1,0,0,0,0,0,0,0,0,0,transverse_process,0
+Predation,Equus caballus 20,inf,V. Lumbar,Small,0,0,0,3,0,0,0,0,spinous_process,0,0,0,0,0
+Predation,Ovis aries 39,ad,Rib,Small,4,0,0,1,0,0,0,0,dist_shaft,0,0,dist_shaft,0,0
+Scavenging,Capreolus capreolus 2,ad,V. Lumbar,Small,0,0,0,1,0,0,0,0,transverse_process,0,0,0,0,0
+Scavenging,Cervus elaphus 6,ad,Rib,Large,0,0,1,0,0,0,0,0,0,0,0,0,neck,0
+Predation,Ovis aries 24,ad,Axial,Small,0,0,0,1,0,0,0,0,transverse_process,0,0,0,0,0
+Predation,Ovis aries 18,juv,Appendicular,Small,2,0,1,0,0,0,0,0,0,0,0,shaft,shaft,0
+Predation,Ovis aries 10,ad,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Predation,Ovis aries 44,ad,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Scavenging,Capra hircus 37,juv,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,neck,0
+Predation,Ovis aries 22,juv,V. Lumbar,Small,1,0,2,0,0,0,0,0,0,0,0,transverse_process,transverse_process,0
+Predation,Ovis aries 18,juv,Appendicular,Small,2,2,1,0,0,0,0,shaft,0,0,0,shaft,shaft,0
+Scavenging,Cervus elaphus 6,ad,Rib,Large,0,0,1,0,0,0,0,0,0,0,0,0,neck,0
+Predation,Ovis aries 30,ad,V. Lumbar,Small,0,0,0,0,1,0,0,0,0,0,0,0,0,transverse_process
+Predation,Equus caballus 36,inf,V. Thoracic,Small,0,0,0,2,0,0,0,0,spinous_process,0,0,0,0,0
+Scavenging,Cervus elaphus 4,juv,Rib,Large,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Scavenging,Cervus elaphus 6,ad,Rib,Large,0,0,1,0,0,1,0,0,0,other,0,0,neck,0
+Predation,Sus scrofa 29,juv,V. Cervical,Small,0,0,1,0,0,0,0,0,0,0,0,0,spinous_process,0
+Predation,Ovis aries 30,ad,V. Cervical,Small,0,0,0,0,0,2,0,0,0,transverse_process,0,0,0,0
+Predation,Ovis aries 44,ad,V. Cervical,Small,0,0,0,0,2,0,0,0,0,0,0,0,0,transverse_process
+Predation,Capra hircus 46,juv,V. Lumbar,Small,0,0,0,0,1,0,0,0,0,0,0,0,0,transverse_process
+Scavenging,Capreolus capreolus 5,juv,Rib,Small,0,0,2,0,0,0,0,0,0,0,0,0,other,0
+Scavenging,Equus caballus 1,ad,V. Thoracic,Large,0,0,0,0,0,0,1,0,0,0,other,0,0,0
+Predation,Ovis aries 44,ad,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Predation,Ovis aries 18,juv,Appendicular,Small,3,0,1,0,0,0,0,0,0,0,0,shaft,shaft,0
+Predation,Ovis aries 18,juv,Axial,Small,1,1,0,1,0,0,0,shaft,other,0,0,shaft,0,0
+Predation,Ovis aries 44,ad,V. Thoracic,Small,0,0,1,0,0,0,0,0,0,0,0,0,spinous_process,0
+Predation,Capra hircus 12,juv,Appendicular,Small,0,0,0,0,0,0,1,0,0,0,other,0,0,0
+Predation,Equus caballus 20,inf,Rib,Small,1,0,0,1,0,0,0,0,dist_shaft,0,0,dist_shaft,0,0
+Predation,Ovis aries 34,ad,Rib,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Predation,Ovis aries 39,ad,V. Lumbar,Small,0,0,0,0,2,0,0,0,0,0,0,0,0,transverse_process
+Scavenging,Cervus elaphus 16,juv,V. Cervical,Large,0,0,1,0,0,0,0,0,0,0,0,0,other,0
+Scavenging,Equus caballus 1,ad,V. Lumbar,Large,0,0,2,1,0,0,0,0,spinous_process,0,0,0,transverse_process,0
+Scavenging,Equus caballus 1,ad,Cranial,Large,0,0,0,0,0,0,1,0,0,0,other,0,0,0
+Predation,Ovis aries 18,juv,Appendicular,Small,6,1,1,0,0,0,0,shaft,0,0,0,shaft,shaft,0
+Predation,Ovis aries 31,sen,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Scavenging,Equus caballus 1,ad,Girdles,Large,11,2,1,0,0,0,1,other,0,0,other,other,other,0
+Predation,Ovis aries 9,ad,Rib,Small,0,0,0,1,1,0,0,0,dist_shaft,0,0,0,0,dist_shaft
+Scavenging,Cervus elaphus 15,juv,Rib,Large,4,0,1,0,0,0,0,0,0,0,0,shaft,shaft,0
+Predation,Ovis aries 14,sen,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,other,0
+Scavenging,Capreolus capreolus 5,juv,Girdles,Small,3,0,0,0,0,1,0,0,0,other,0,other,0,0
+Predation,Equus caballus 20,inf,V. Thoracic,Small,0,0,0,1,0,0,0,0,spinous_process,0,0,0,0,0
+Scavenging,Equus caballus 41,inf,Rib,Small,1,1,0,1,0,0,0,dist_shaft,dist_shaft,0,0,dist_shaft,0,0
+Predation,Ovis aries 45,ad,Rib,Small,0,0,0,0,1,0,0,0,0,0,0,0,0,dist_shaft
+Scavenging,Cervus elaphus 4,juv,Rib,Large,0,0,2,0,0,0,0,0,0,0,0,0,other,0
+Predation,Equus caballus 20,inf,V. Thoracic,Small,0,0,1,0,0,0,0,0,0,0,0,0,spinous_process,0
+Scavenging,Capreolus capreolus 2,ad,Rib,Small,4,0,0,1,0,0,0,0,dist_shaft,0,0,dist_shaft,0,0
+Predation,Ovis aries 34,ad,V. Cervical,Small,1,0,0,1,0,0,0,0,spinous_process,0,0,spinous_process,0,0
+Scavenging,Capreolus capreolus 5,juv,V. Thoracic,Small,0,0,1,0,0,0,0,0,0,0,0,0,spinous_process,0
+Scavenging,Equus caballus 1,ad,V. Thoracic,Large,3,0,0,0,0,0,0,0,0,0,0,spinous_process,0,0
+Predation,Ovis aries 34,ad,Axial,Small,0,0,1,0,0,0,0,0,0,0,0,0,other,0
+Scavenging,Equus caballus 1,ad,V. Thoracic,Large,0,0,1,0,0,0,1,0,0,0,body,0,spinous_process,0
+Predation,Ovis aries 17,sen,V. Thoracic,Small,0,0,0,0,1,0,0,0,0,0,0,0,0,spinous_process
+Scavenging,Cervus elaphus 16,juv,V. Lumbar,Large,0,0,1,0,0,0,0,0,0,0,0,0,other,0
+Predation,Ovis aries 14,sen,Rib,Small,2,0,0,1,0,0,0,0,shaft,0,0,shaft,0,0
+Predation,Ovis aries 25,ad,Axial,Small,2,0,0,0,0,0,0,0,0,0,0,body,0,0
+Scavenging,Equus caballus 35,inf,Rib,Small,0,0,0,0,0,1,0,0,0,other,0,0,0,0
+Predation,Ovis aries 14,sen,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,shaft,0
+Scavenging,Equus caballus 1,ad,Rib,Large,6,2,1,0,0,0,0,shaft,0,0,0,shaft,shaft,0
+Predation,Equus caballus 36,inf,Rib,Small,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Predation,Capra hircus 12,juv,V. Lumbar,Small,2,0,0,0,2,0,0,0,0,0,0,transverse_process,0,transverse_process
+Predation,Ovis aries 10,ad,Rib,Small,1,3,0,0,0,1,0,dist_shaft,0,other,0,dist_shaft,0,0
+Predation,Ovis aries 17,sen,V. Cervical,Small,0,0,1,0,0,0,0,0,0,0,0,0,spinous_process,0
+Scavenging,Capra hircus 37,juv,Girdles,Small,0,0,0,1,0,1,0,0,other,other,0,0,0,0
+Predation,Capra hircus 46,juv,V. Thoracic,Small,0,0,0,2,0,0,0,0,transverse_process,0,0,0,0,0
+Predation,Capra hircus 46,juv,Rib,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Scavenging,Equus caballus 35,inf,V. Thoracic,Small,1,0,0,3,0,0,0,0,spinous_process,0,0,transverse_process,0,0
+Predation,Ovis aries 32,ad,Rib,Small,0,0,0,0,1,0,0,0,0,0,0,0,0,dist_shaft
+Predation,Ovis aries 19,ad,V. Cervical,Small,2,1,0,3,0,0,1,other,transverse_process,0,other,transverse_process,0,0
+Predation,Ovis aries 18,juv,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,neck,0
+Predation,Ovis aries 11,inf,Rib,Small,3,0,1,0,0,0,0,0,0,0,0,dist_shaft,dist_shaft,0
+Predation,Ovis aries 39,ad,V. Thoracic,Small,0,0,0,0,1,0,0,0,0,0,0,0,0,spinous_process
+Scavenging,Capra hircus 37,juv,V. Thoracic,Small,0,0,0,1,0,0,0,0,spinous_process,0,0,0,0,0
+Scavenging,Capra hircus 37,juv,Cranial,Small,1,0,1,0,0,0,0,0,0,0,0,other,other,0
+Predation,Ovis aries 14,sen,Girdles,Small,0,0,0,0,0,1,0,0,0,other,0,0,0,0
+Predation,Equus caballus 33,inf,V. Thoracic,Small,0,0,0,2,0,0,0,0,spinous_process,0,0,0,0,0
+Predation,Equus caballus 33,inf,Girdles,Small,1,0,0,0,0,0,0,0,0,0,0,other,0,0
+Predation,Ovis aries 11,inf,Rib,Small,0,0,0,0,1,0,0,0,0,0,0,0,0,dist_shaft
+Predation,Ovis aries 14,sen,V. Thoracic,Small,0,0,0,0,1,0,0,0,0,0,0,0,0,spinous_process
+Predation,Ovis aries 14,sen,V. Lumbar,Small,3,0,1,0,1,0,0,0,0,0,0,transverse_process,transverse_process,transverse_process
+Predation,Ovis aries 11,inf,Rib,Small,0,1,0,1,0,0,0,shaft,shaft,0,0,0,0,0
+Scavenging,Capra hircus 37,juv,Rib,Small,1,0,1,0,0,0,0,0,0,0,0,dist_shaft,neck,0
+Predation,Equus caballus 20,inf,Rib,Small,0,0,0,0,0,1,0,0,0,other,0,0,0,0
+Scavenging,Capreolus capreolus 5,juv,V. Lumbar,Small,0,0,1,0,0,0,0,0,0,0,0,0,spinous_process,0
+Scavenging,Capra hircus 37,juv,Appendicular,Small,3,0,0,0,0,0,2,0,0,0,other,body,0,0
+Scavenging,Equus caballus 35,inf,V. Cervical,Small,0,0,0,3,0,0,0,0,transverse_process,0,0,0,0,0
+Predation,Capra hircus 42,ad,Rib,Small,0,1,1,1,0,0,0,other,dist_shaft,0,0,0,neck,0
+Predation,Sus scrofa 29,juv,V. Thoracic,Small,0,0,0,0,1,0,0,0,0,0,0,0,0,spinous_process
+Predation,Ovis aries 14,sen,Rib,Small,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Predation,Ovis aries 39,ad,V. Thoracic,Small,0,0,0,0,0,1,0,0,0,spinous_process,0,0,0,0
+Predation,Capra hircus 12,juv,Rib,Small,2,0,0,1,0,0,0,0,shaft,0,0,shaft,0,0
+Predation,Ovis aries 24,ad,V. Thoracic,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Scavenging,Cervus elaphus 15,juv,V. Cervical,Large,1,0,1,1,0,0,0,0,spinous_process,0,0,transverse_process,transverse_process,0
+Scavenging,Capra hircus 37,juv,Rib,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Predation,Ovis aries 14,sen,V. Lumbar,Small,0,0,1,0,0,0,0,0,0,0,0,0,transverse_process,0
+Scavenging,Equus caballus 35,inf,V. Thoracic,Small,0,0,0,3,0,0,0,0,spinous_process,0,0,0,0,0
+Predation,Capra hircus 12,juv,Rib,Small,7,0,0,1,0,0,0,0,other,0,0,other,0,0
+Predation,Ovis aries 13,ad,V. Lumbar,Small,0,0,0,1,0,0,0,0,transverse_process,0,0,0,0,0
+Predation,Equus caballus 36,inf,Rib,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Predation,Ovis aries 18,juv,Axial,Small,1,0,1,1,0,0,0,0,other,0,0,body,other,0
+Predation,Ovis aries 11,inf,V. Lumbar,Small,0,0,3,0,0,0,0,0,0,0,0,0,spinous_process,0
+Predation,Ovis aries 30,ad,V. Lumbar,Small,0,0,0,1,0,0,0,0,transverse_process,0,0,0,0,0
+Predation,Ovis aries 14,sen,Rib,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Predation,Equus caballus 36,inf,Appendicular,Small,0,0,0,1,0,0,0,0,other,0,0,0,0,0
+Scavenging,Cervus elaphus 15,juv,Rib,Large,2,0,0,1,0,0,0,0,dist_shaft,0,0,shaft,0,0
+Predation,Ovis aries 34,ad,Appendicular,Small,0,3,0,0,1,0,1,other,0,0,other,0,0,other
+Predation,Ovis aries 39,ad,V. Thoracic,Small,4,0,0,1,0,0,0,0,spinous_process,0,0,spinous_process,0,0
+Scavenging,Capra hircus 37,juv,V. Thoracic,Small,0,0,0,0,2,0,1,0,0,0,body,0,0,spinous_process
+Predation,Equus caballus 20,inf,V. Cervical,Small,0,0,0,1,0,0,0,0,transverse_process,0,0,0,0,0
+Predation,Ovis aries 34,ad,Axial,Small,0,0,1,0,0,0,0,0,0,0,0,0,shaft,0
+Scavenging,Capreolus capreolus 2,ad,V. Thoracic,Small,0,0,0,1,0,0,1,0,spinous_process,0,body,0,0,0
+Predation,Sus scrofa 29,juv,V. Thoracic,Small,0,0,1,0,0,0,0,0,0,0,0,0,spinous_process,0
+Predation,Equus caballus 33,inf,Appendicular,Small,0,2,0,0,0,0,0,shaft,0,0,0,0,0,0
+Scavenging,Cervus elaphus 6,ad,V. Lumbar,Large,0,0,2,0,0,0,0,0,0,0,0,0,transverse_process,0
+Scavenging,Capreolus capreolus 5,juv,Girdles,Small,2,0,0,1,0,0,0,0,other,0,0,other,0,0
+Scavenging,Equus caballus 35,inf,V. Thoracic,Small,0,0,0,1,0,0,0,0,spinous_process,0,0,0,0,0
+Predation,Capra hircus 12,juv,V. Lumbar,Small,0,0,0,0,2,0,0,0,0,0,0,0,0,transverse_process
+Scavenging,Equus caballus 41,inf,V. Thoracic,Small,1,0,0,1,0,0,0,0,spinous_process,0,0,body,0,0
+Scavenging,Capreolus capreolus 5,juv,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,shaft,0
+Scavenging,Capra hircus 37,juv,Appendicular,Small,0,0,0,1,0,0,0,0,other,0,0,0,0,0
+Predation,Ovis aries 39,ad,V. Lumbar,Small,2,0,0,1,0,0,0,0,transverse_process,0,0,transverse_process,0,0
+Predation,Equus caballus 36,inf,V. Cervical,Small,0,1,0,0,0,0,0,other,0,0,0,0,0,0
+Scavenging,Cervus elaphus 4,juv,Rib,Large,2,0,0,0,0,0,0,0,0,0,0,dist_shaft,0,0
+Predation,Equus caballus 20,inf,Girdles,Small,0,1,0,0,0,0,1,other,0,0,other,0,0,0
+Scavenging,Capreolus capreolus 5,juv,Appendicular,Small,0,0,1,0,0,0,0,0,0,0,0,0,other,0
+Predation,Ovis aries 13,ad,Girdles,Small,0,0,0,1,0,0,0,0,other,0,0,0,0,0
+Scavenging,Equus caballus 1,ad,V. Cervical,Large,0,0,0,1,0,0,0,0,transverse_process,0,0,0,0,0
+Predation,Ovis aries 40,ad,V. Lumbar,Small,0,0,0,2,0,0,0,0,transverse_process,0,0,0,0,0
+Predation,Ovis aries 39,ad,V. Lumbar,Small,0,0,0,0,0,1,0,0,0,transverse_process,0,0,0,0
+Predation,Ovis aries 11,inf,V. Thoracic,Small,0,0,0,0,2,0,0,0,0,0,0,0,0,spinous_process
+Predation,Ovis aries 45,ad,Rib,Small,1,0,0,1,0,0,0,0,dist_shaft,0,0,dist_shaft,0,0
+Scavenging,Capreolus capreolus 5,juv,Rib,Small,0,0,2,0,0,0,0,0,0,0,0,0,other,0
+Scavenging,Cervus elaphus 16,juv,V. Thoracic,Large,0,0,1,0,0,0,0,0,0,0,0,0,spinous_process,0
+Predation,Ovis aries 45,ad,Axial,Small,0,0,0,0,0,0,1,0,0,0,body,0,0,0
+Predation,Ovis aries 44,ad,Rib,Small,0,0,1,0,1,0,0,0,0,0,0,0,dist_shaft,dist_shaft
+Predation,Ovis aries 39,ad,V. Lumbar,Small,0,0,0,0,0,2,0,0,0,transverse_process,0,0,0,0
+Scavenging,Bos taurus 7,ad,Rib,Large,1,0,0,0,0,0,0,0,0,0,0,dist_shaft,0,0
+Predation,Ovis aries 17,sen,V. Lumbar,Small,0,0,2,0,0,0,0,0,0,0,0,0,spinous_process,0
+Predation,Ovis aries 18,juv,Rib,Small,0,2,0,0,0,0,0,shaft,0,0,0,0,0,0
+Predation,Ovis aries 39,ad,Axial,Small,1,0,0,0,0,0,0,0,0,0,0,body,0,0
+Scavenging,Cervus elaphus 6,ad,Rib,Large,0,0,0,1,0,0,0,0,shaft,0,0,0,0,0
+Predation,Capra hircus 46,juv,Rib,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Scavenging,Cervus elaphus 6,ad,Rib,Large,0,0,1,0,1,0,0,0,0,0,0,0,shaft,other
+Scavenging,Capra hircus 37,juv,V. Cervical,Small,0,0,0,2,1,0,0,0,transverse_process,0,0,0,0,spinous_process
+Predation,Equus caballus 20,inf,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,other,0
+Predation,Ovis aries 25,ad,V. Lumbar,Small,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Predation,Equus caballus 36,inf,Rib,Small,1,0,0,0,0,0,0,0,0,0,0,dist_shaft,0,0
+Predation,Ovis aries 17,sen,V. Thoracic,Small,0,0,1,0,0,0,0,0,0,0,0,0,spinous_process,0
+Predation,Ovis aries 17,sen,V. Lumbar,Small,2,0,3,0,0,0,0,0,0,0,0,other,spinous_process,0
+Predation,Ovis aries 25,ad,V. Thoracic,Small,0,0,1,0,0,0,0,0,0,0,0,0,spinous_process,0
+Predation,Ovis aries 30,ad,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Predation,Equus caballus 20,inf,V. Cervical,Small,0,0,0,2,0,0,0,0,transverse_process,0,0,0,0,0
+Predation,Ovis aries 17,sen,Rib,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Predation,Ovis aries 10,ad,V. Cervical,Small,0,0,0,0,1,1,0,0,0,transverse_process,0,0,0,transverse_process
+Predation,Capra hircus 46,juv,V. Lumbar,Small,0,0,0,2,0,0,0,0,transverse_process,0,0,0,0,0
+Scavenging,Capra hircus 37,juv,V. Thoracic,Small,0,0,0,1,1,0,0,0,transverse_process,0,0,0,0,spinous_process
+Scavenging,Cervus elaphus 15,juv,Rib,Large,3,0,1,0,0,0,0,0,0,0,0,shaft,shaft,0
+Scavenging,Equus caballus 35,inf,Rib,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Predation,Ovis aries 10,ad,V. Lumbar,Small,0,0,1,0,0,0,0,0,0,0,0,0,transverse_process,0
+Scavenging,Cervus elaphus 15,juv,V. Lumbar,Large,0,0,0,0,1,0,0,0,0,0,0,0,0,transverse_process
+Scavenging,Equus caballus 41,inf,V. Lumbar,Small,0,0,0,3,0,0,0,0,transverse_process,0,0,0,0,0
+Scavenging,Cervus elaphus 15,juv,V. Thoracic,Large,0,0,1,0,0,0,0,0,0,0,0,0,spinous_process,0
+Predation,Ovis aries 10,ad,Axial,Small,1,0,0,1,0,0,0,0,other,0,0,other,0,0
+Predation,Ovis aries 19,ad,V. Cervical,Small,0,0,0,3,0,0,0,0,transverse_process,0,0,0,0,0
+Predation,Ovis aries 11,inf,Rib,Small,0,0,0,0,1,1,0,0,0,other,0,0,0,dist_shaft
+Predation,Equus caballus 20,inf,Appendicular,Small,0,0,0,0,0,0,2,0,0,0,other,0,0,0
+Scavenging,Equus caballus 35,inf,Rib,Small,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Predation,Ovis aries 24,ad,Rib,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Predation,Ovis aries 9,ad,V. Cervical,Small,0,0,0,0,0,1,0,0,0,transverse_process,0,0,0,0
+Predation,Sus scrofa 29,juv,V. Lumbar,Small,0,0,1,1,0,0,0,0,spinous_process,0,0,0,other,0
+Predation,Ovis aries 18,juv,Appendicular,Small,2,1,0,0,0,0,1,other,0,0,other,other,0,0
+Scavenging,Cervus elaphus 4,juv,Rib,Large,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Predation,Ovis aries 11,inf,V. Thoracic,Small,0,0,1,0,0,0,0,0,0,0,0,0,spinous_process,0
+Predation,Equus caballus 20,inf,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Predation,Capra hircus 12,juv,Cranial,Small,3,11,0,0,0,0,2,other,0,0,other,other,0,0
+Scavenging,Capreolus capreolus 2,ad,Rib,Small,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Predation,Ovis aries 44,ad,V. Thoracic,Small,0,0,0,0,1,0,0,0,0,0,0,0,0,spinous_process
+Predation,Ovis aries 31,sen,Axial,Small,4,1,0,1,0,0,0,other,other,0,0,other,0,0
+Scavenging,Cervus elaphus 15,juv,V. Lumbar,Large,0,0,1,0,0,0,0,0,0,0,0,0,transverse_process,0
+Scavenging,Capra hircus 37,juv,Rib,Small,0,0,0,1,1,0,0,0,dist_shaft,0,0,0,0,other
+Predation,Ovis aries 18,juv,Appendicular,Small,1,3,1,0,0,0,0,shaft,0,0,0,shaft,shaft,0
+Predation,Ovis aries 25,ad,Appendicular,Small,0,0,1,0,0,0,0,0,0,0,0,0,other,0
+Predation,Ovis aries 11,inf,Rib,Small,0,4,0,1,0,0,0,dist_shaft,dist_shaft,0,0,0,0,0
+Scavenging,Equus caballus 35,inf,V. Lumbar,Small,0,0,0,2,0,0,0,0,spinous_process,0,0,0,0,0
+Predation,Ovis aries 25,ad,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Scavenging,Capra hircus 37,juv,Rib,Small,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Scavenging,Cervus elaphus 4,juv,V. Thoracic,Large,0,0,1,0,0,0,0,0,0,0,0,0,spinous_process,0
+Predation,Sus scrofa 29,juv,V. Lumbar,Small,0,0,1,1,0,0,0,0,spinous_process,0,0,0,other,0
+Predation,Ovis aries 14,sen,V. Thoracic,Small,0,0,0,0,0,1,0,0,0,spinous_process,0,0,0,0
+Predation,Capra hircus 12,juv,V. Cervical,Small,0,0,0,1,0,0,0,0,other,0,0,0,0,0
+Scavenging,Equus caballus 35,inf,V. Thoracic,Small,0,0,0,3,0,0,0,0,spinous_process,0,0,0,0,0
+Scavenging,Capra hircus 37,juv,Rib,Small,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Predation,Ovis aries 14,sen,V. Thoracic,Small,0,0,2,0,0,0,0,0,0,0,0,0,spinous_process,0
+Scavenging,Equus caballus 35,inf,Rib,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Scavenging,Equus caballus 35,inf,V. Thoracic,Small,0,0,0,2,0,0,0,0,spinous_process,0,0,0,0,0
+Scavenging,Equus caballus 35,inf,Rib,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Predation,Ovis aries 14,sen,V. Thoracic,Small,0,0,1,0,0,0,0,0,0,0,0,0,spinous_process,0
+Predation,Ovis aries 18,juv,V. Cervical,Small,0,0,0,2,0,0,0,0,transverse_process,0,0,0,0,0
+Predation,Ovis aries 34,ad,Rib,Small,0,1,0,0,0,0,0,other,0,0,0,0,0,0
+Scavenging,Capreolus capreolus 3,ad,V. Thoracic,Small,0,0,0,0,0,1,0,0,0,spinous_process,0,0,0,0
+Predation,Ovis aries 25,ad,V. Thoracic,Small,2,0,0,0,0,0,0,0,0,0,0,spinous_process,0,0
+Predation,Ovis aries 11,inf,Rib,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Predation,Ovis aries 44,ad,Appendicular,Small,1,0,0,0,0,0,0,0,0,0,0,other,0,0
+Predation,Ovis aries 17,sen,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Scavenging,Equus caballus 1,ad,Rib,Large,0,0,1,0,0,0,0,0,0,0,0,0,neck,0
+Predation,Ovis aries 19,ad,Rib,Small,0,0,0,0,1,0,0,0,0,0,0,0,0,other
+Predation,Ovis aries 44,ad,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,other,0
+Predation,Ovis aries 30,ad,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Predation,Ovis aries 32,ad,Rib,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Scavenging,Capra hircus 37,juv,Cranial,Small,0,0,0,0,1,0,0,0,0,0,0,0,0,other
+Scavenging,Equus caballus 41,inf,Rib,Small,2,0,0,1,0,0,0,0,other,0,0,other,0,0
+Predation,Ovis aries 10,ad,V. Lumbar,Small,0,0,0,0,1,0,0,0,0,0,0,0,0,transverse_process
+Scavenging,Cervus elaphus 16,juv,Rib,Large,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Predation,Capra hircus 46,juv,V. Thoracic,Small,0,0,0,1,0,0,0,0,transverse_process,0,0,0,0,0
+Predation,Ovis aries 25,ad,Axial,Small,4,1,0,1,0,1,0,other,transverse_process,transverse_process,0,body,0,0
+Predation,Ovis aries 22,juv,V. Thoracic,Small,0,0,0,1,0,0,0,0,spinous_process,0,0,0,0,0
+Predation,Ovis aries 34,ad,Rib,Small,0,0,1,1,0,0,0,0,dist_shaft,0,0,0,other,0
+Predation,Equus caballus 36,inf,V. Thoracic,Small,0,0,0,3,0,0,0,0,spinous_process,0,0,0,0,0
+Scavenging,Cervus elaphus 6,ad,V. Thoracic,Large,0,0,1,1,0,0,0,0,spinous_process,0,0,0,other,0
+Scavenging,Cervus elaphus 6,ad,V. Lumbar,Large,0,0,2,0,0,0,0,0,0,0,0,0,transverse_process,0
+Predation,Ovis aries 11,inf,V. Thoracic,Small,0,0,0,0,1,0,0,0,0,0,0,0,0,spinous_process
+Scavenging,Cervus elaphus 16,juv,V. Thoracic,Large,0,0,1,0,0,0,0,0,0,0,0,0,spinous_process,0
+Predation,Ovis aries 14,sen,Axial,Small,2,0,0,0,0,2,0,0,0,transverse_process,0,body,0,0
+Predation,Ovis aries 39,ad,Girdles,Small,5,0,0,0,0,0,0,0,0,0,0,other,0,0
+Scavenging,Cervus elaphus 15,juv,V. Lumbar,Large,0,0,1,0,0,0,0,0,0,0,0,0,transverse_process,0
+Scavenging,Bos taurus 7,ad,V. Thoracic,Large,0,3,1,0,0,0,0,spinous_process,0,0,0,0,spinous_process,0
+Scavenging,Cervus elaphus 16,juv,Girdles,Large,6,0,0,0,0,0,0,0,0,0,0,other,0,0
+Predation,Equus caballus 36,inf,V. Thoracic,Small,0,0,0,1,0,0,0,0,spinous_process,0,0,0,0,0
+Predation,Equus caballus 36,inf,Appendicular,Small,0,0,0,0,0,0,2,0,0,0,other,0,0,0
+Predation,Equus caballus 20,inf,Rib,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Predation,Capra hircus 46,juv,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Scavenging,Equus caballus 41,inf,Rib,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Scavenging,Cervus elaphus 16,juv,Rib,Large,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Predation,Ovis aries 45,ad,Rib,Small,0,0,0,0,1,0,0,0,0,0,0,0,0,dist_shaft
+Scavenging,Capra hircus 37,juv,Appendicular,Small,0,2,1,0,0,0,0,shaft,0,0,0,0,shaft,0
+Predation,Sus scrofa 29,juv,Girdles,Small,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Scavenging,Bos taurus 7,ad,V. Thoracic,Large,0,1,0,1,0,0,0,spinous_process,spinous_process,0,0,0,0,0
+Scavenging,Capreolus capreolus 2,ad,V. Thoracic,Small,1,0,1,0,0,0,0,0,0,0,0,spinous_process,spinous_process,0
+Scavenging,Capra hircus 37,juv,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,neck,0
+Predation,Ovis aries 22,juv,Rib,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Predation,Ovis aries 44,ad,Girdles,Small,2,0,2,0,0,0,0,0,0,0,0,other,other,0
+Predation,Equus caballus 33,inf,V. Thoracic,Small,1,0,0,1,0,0,0,0,transverse_process,0,0,spinous_process,0,0
+Predation,Ovis aries 10,ad,Rib,Small,2,0,1,0,0,0,0,0,0,0,0,dist_shaft,dist_shaft,0
+Predation,Capra hircus 38,ad,V. Cervical,Small,0,0,0,1,0,0,0,0,transverse_process,0,0,0,0,0
+Predation,Ovis aries 24,ad,V. Lumbar,Small,2,0,0,1,0,0,0,0,spinous_process,0,0,spinous_process,0,0
+Scavenging,Capreolus capreolus 3,ad,V. Lumbar,Small,0,0,2,0,0,0,0,0,0,0,0,0,transverse_process,0
+Predation,Equus caballus 20,inf,Rib,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Predation,Ovis aries 18,juv,Appendicular,Small,0,0,1,0,0,0,0,0,0,0,0,0,shaft,0
+Predation,Ovis aries 30,ad,Rib,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Scavenging,Equus caballus 35,inf,V. Thoracic,Small,0,0,0,1,0,0,0,0,transverse_process,0,0,0,0,0
+Scavenging,Cervus elaphus 4,juv,Appendicular,Large,9,0,0,0,0,0,1,0,0,0,other,other,0,0
+Scavenging,Cervus elaphus 4,juv,Appendicular,Large,0,0,0,0,0,0,1,0,0,0,other,0,0,0
+Predation,Capra hircus 12,juv,V. Cervical,Small,3,0,0,1,0,0,0,0,spinous_process,0,0,spinous_process,0,0
+Scavenging,Capreolus capreolus 5,juv,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,shaft,0
+Scavenging,Bos taurus 7,ad,Rib,Large,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Predation,Equus caballus 20,inf,V. Thoracic,Small,0,0,0,1,0,0,0,0,spinous_process,0,0,0,0,0
+Scavenging,Equus caballus 41,inf,V. Thoracic,Small,0,0,1,1,0,0,1,0,transverse_process,0,other,0,spinous_process,0
+Predation,Ovis aries 10,ad,Rib,Small,0,1,1,0,0,0,0,dist_shaft,0,0,0,0,dist_shaft,0
+Scavenging,Cervus elaphus 15,juv,Rib,Large,2,0,1,0,0,1,0,0,0,other,0,shaft,shaft,0
+Scavenging,Equus caballus 35,inf,Cranial,Small,0,0,0,3,0,0,0,0,other,0,0,0,0,0
+Scavenging,Equus caballus 41,inf,Rib,Small,2,0,0,0,0,0,0,0,0,0,0,dist_shaft,0,0
+Scavenging,Cervus elaphus 15,juv,Rib,Large,0,0,1,0,0,0,0,0,0,0,0,0,shaft,0
+Predation,Ovis aries 17,sen,V. Lumbar,Small,0,0,0,2,0,0,0,0,spinous_process,0,0,0,0,0
+Predation,Equus caballus 20,inf,V. Thoracic,Small,0,0,0,1,0,0,0,0,spinous_process,0,0,0,0,0
+Predation,Equus caballus 36,inf,Rib,Small,0,0,0,0,0,1,0,0,0,other,0,0,0,0
+Predation,Ovis aries 18,juv,Appendicular,Small,3,2,1,0,0,0,0,shaft,0,0,0,shaft,shaft,0
+Predation,Ovis aries 22,juv,Rib,Small,0,0,1,1,0,0,0,0,dist_shaft,0,0,0,other,0
+Predation,Capra hircus 46,juv,V. Lumbar,Small,0,0,1,1,1,0,0,0,transverse_process,0,0,0,spinous_process,transverse_process
+Scavenging,Equus caballus 41,inf,Appendicular,Small,7,0,0,0,0,0,1,0,0,0,other,other,0,0
+Scavenging,Cervus elaphus 16,juv,Rib,Large,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Predation,Ovis aries 11,inf,Rib,Small,0,0,0,0,1,0,0,0,0,0,0,0,0,dist_shaft
+Predation,Equus caballus 33,inf,Cranial,Small,0,1,0,0,0,0,0,other,0,0,0,0,0,0
+Predation,Ovis aries 11,inf,V. Thoracic,Small,0,0,1,0,0,0,0,0,0,0,0,0,spinous_process,0
+Scavenging,Cervus elaphus 15,juv,Axial,Large,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Scavenging,Bos taurus 7,ad,V. Thoracic,Large,0,1,0,1,0,1,0,spinous_process,spinous_process,spinous_process,0,0,0,0
+Scavenging,Bos taurus 7,ad,V. Thoracic,Large,0,1,0,0,0,0,0,spinous_process,0,0,0,0,0,0
+Predation,Ovis aries 10,ad,Rib,Small,1,0,0,0,1,0,0,0,0,0,0,dist_shaft,0,dist_shaft
+Predation,Equus caballus 36,inf,Rib,Small,1,0,0,1,0,0,0,0,dist_shaft,0,0,dist_shaft,0,0
+Scavenging,Equus caballus 35,inf,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Predation,Equus caballus 20,inf,Rib,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Scavenging,Capreolus capreolus 5,juv,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,neck,0
+Predation,Ovis aries 17,sen,V. Thoracic,Small,0,0,1,0,0,0,0,0,0,0,0,0,spinous_process,0
+Scavenging,Cervus elaphus 6,ad,V. Lumbar,Large,2,0,2,0,0,1,0,0,0,spinous_process,0,spinous_process,transverse_process,0
+Predation,Ovis aries 45,ad,Rib,Small,1,0,1,0,0,0,0,0,0,0,0,shaft,shaft,0
+Predation,Ovis aries 25,ad,Rib,Small,0,0,0,0,1,0,0,0,0,0,0,0,0,dist_shaft
+Predation,Equus caballus 33,inf,V. Lumbar,Small,0,0,0,0,1,0,0,0,0,0,0,0,0,transverse_process
+Predation,Equus caballus 33,inf,V. Lumbar,Small,0,0,0,1,0,0,0,0,spinous_process,0,0,0,0,0
+Scavenging,Cervus elaphus 16,juv,Rib,Large,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Scavenging,Equus caballus 41,inf,Appendicular,Small,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Predation,Sus scrofa 29,juv,V. Lumbar,Small,0,0,0,1,0,0,0,0,spinous_process,0,0,0,0,0
+Scavenging,Equus caballus 35,inf,Cranial,Small,0,0,0,2,0,0,0,0,other,0,0,0,0,0
+Predation,Ovis aries 9,ad,V. Lumbar,Small,0,7,0,0,0,0,0,other,0,0,0,0,0,0
+Scavenging,Equus caballus 41,inf,Cranial,Small,5,0,1,0,0,0,1,0,0,0,other,body,other,0
+Predation,Ovis aries 18,juv,Rib,Small,0,0,0,0,1,0,0,0,0,0,0,0,0,dist_shaft
+Predation,Ovis aries 11,inf,Rib,Small,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Predation,Ovis aries 10,ad,V. Lumbar,Small,0,0,1,0,0,0,0,0,0,0,0,0,transverse_process,0
+Scavenging,Cervus elaphus 6,ad,Girdles,Large,2,0,0,2,0,0,0,0,other,0,0,other,0,0
+Predation,Capra hircus 12,juv,Rib,Small,6,0,0,0,2,0,0,0,0,0,0,other,0,other
+Predation,Ovis aries 22,juv,Axial,Small,5,0,1,1,0,0,0,0,transverse_process,0,0,transverse_process,spinous_process,0
+Scavenging,Cervus elaphus 6,ad,V. Cervical,Large,3,5,1,0,0,1,0,other,0,transverse_process,0,transverse_process,spinous_process,0
+Predation,Ovis aries 10,ad,Appendicular,Small,3,0,0,0,0,0,0,0,0,0,0,other,0,0
+Scavenging,Capreolus capreolus 2,ad,V. Lumbar,Small,0,0,0,0,2,0,0,0,0,0,0,0,0,transverse_process
+Scavenging,Capra hircus 37,juv,Appendicular,Small,0,1,0,1,1,0,0,other,other,0,0,0,0,other
+Scavenging,Cervus elaphus 6,ad,Rib,Large,0,0,1,0,0,0,0,0,0,0,0,0,shaft,0
+Predation,Ovis aries 24,ad,V. Thoracic,Small,0,0,0,0,1,0,0,0,0,0,0,0,0,dist_shaft
+Scavenging,Capreolus capreolus 5,juv,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Scavenging,Capreolus capreolus 2,ad,Rib,Small,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Scavenging,Equus caballus 41,inf,V. Lumbar,Small,0,0,0,2,1,0,0,0,transverse_process,0,0,0,0,transverse_process
+Predation,Ovis aries 30,ad,Rib,Small,1,0,0,1,0,0,0,0,dist_shaft,0,0,shaft,0,0
+Predation,Ovis aries 18,juv,Appendicular,Small,5,0,1,1,0,0,0,0,shaft,0,0,shaft,shaft,0
+Scavenging,Cervus elaphus 4,juv,V. Thoracic,Large,0,0,1,0,0,0,0,0,0,0,0,0,spinous_process,0
+Predation,Ovis aries 39,ad,V. Cervical,Small,1,0,0,0,0,0,0,0,0,0,0,transverse_process,0,0
+Scavenging,Equus caballus 41,inf,Rib,Small,0,0,1,1,0,0,0,0,other,0,0,0,other,0
+Scavenging,Equus caballus 41,inf,Appendicular,Small,0,0,0,0,0,0,1,0,0,0,other,0,0,0
+Scavenging,Cervus elaphus 15,juv,Rib,Large,11,5,1,0,0,1,0,shaft,0,other,0,shaft,shaft,0
+Scavenging,Equus caballus 35,inf,Rib,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Predation,Ovis aries 30,ad,Rib,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Predation,Ovis aries 18,juv,V. Cervical,Small,0,0,0,1,0,0,0,0,transverse_process,0,0,0,0,0
+Predation,Ovis aries 32,ad,Rib,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Predation,Capra hircus 46,juv,V. Lumbar,Small,0,0,0,1,1,0,0,0,transverse_process,0,0,0,0,transverse_process
+Predation,Equus caballus 36,inf,V. Thoracic,Small,0,0,0,1,0,0,0,0,spinous_process,0,0,0,0,0
+Predation,Capra hircus 12,juv,V. Cervical,Small,0,0,0,1,0,0,1,0,spinous_process,0,body,0,0,0
+Scavenging,Capra hircus 37,juv,Girdles,Small,0,0,0,1,1,1,0,0,other,other,0,0,0,other
+Predation,Ovis aries 10,ad,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Predation,Equus caballus 20,inf,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Predation,Ovis aries 34,ad,Rib,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Predation,Equus caballus 20,inf,V. Lumbar,Small,0,0,0,3,0,0,0,0,spinous_process,0,0,0,0,0
+Predation,Ovis aries 44,ad,V. Thoracic,Small,0,0,1,0,0,0,0,0,0,0,0,0,spinous_process,0
+Predation,Ovis aries 19,ad,Cranial,Small,0,0,1,0,0,0,0,0,0,0,0,0,other,0
+Predation,Ovis aries 18,juv,Appendicular,Small,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Scavenging,Cervus elaphus 6,ad,Rib,Large,0,0,1,0,0,0,0,0,0,0,0,0,shaft,0
+Predation,Sus scrofa 29,juv,V. Thoracic,Small,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Scavenging,Cervus elaphus 4,juv,Rib,Large,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Scavenging,Equus caballus 35,inf,V. Thoracic,Small,0,0,0,1,0,0,0,0,spinous_process,0,0,0,0,0
+Scavenging,Equus caballus 35,inf,V. Thoracic,Small,0,0,0,2,0,0,0,0,spinous_process,0,0,0,0,0
+Predation,Ovis aries 9,ad,Cranial,Small,0,8,0,1,0,0,0,other,other,0,0,0,0,0
+Scavenging,Capra hircus 37,juv,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,other,0
+Predation,Ovis aries 8,sen,Rib,Small,1,7,1,0,1,0,0,dist_shaft,0,0,0,dist_shaft,dist_shaft,dist_shaft
+Scavenging,Cervus elaphus 15,juv,Girdles,Large,0,0,0,0,0,0,1,0,0,0,other,0,0,0
+Scavenging,Cervus elaphus 16,juv,Rib,Large,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Scavenging,Equus caballus 1,ad,Rib,Large,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Scavenging,Cervus elaphus 15,juv,Appendicular,Large,0,0,0,0,0,0,1,0,0,0,other,0,0,0
+Predation,Ovis aries 18,juv,Axial,Small,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Predation,Ovis aries 34,ad,Axial,Small,0,0,1,0,0,0,0,0,0,0,0,0,other,0
+Predation,Ovis aries 18,juv,Appendicular,Small,4,2,1,0,0,0,0,shaft,0,0,0,shaft,shaft,0
+Predation,Ovis aries 39,ad,V. Lumbar,Small,1,0,0,0,0,1,0,0,0,transverse_process,0,transverse_process,0,0
+Predation,Sus scrofa 29,juv,V. Thoracic,Small,0,0,1,0,0,0,0,0,0,0,0,0,spinous_process,0
+Scavenging,Capreolus capreolus 5,juv,V. Thoracic,Small,0,0,1,0,0,0,0,0,0,0,0,0,spinous_process,0
+Predation,Ovis aries 22,juv,V. Lumbar,Small,1,0,2,0,0,0,0,0,0,0,0,spinous_process,transverse_process,0
+Scavenging,Cervus elaphus 16,juv,V. Thoracic,Large,0,0,1,0,0,0,0,0,0,0,0,0,spinous_process,0
+Scavenging,Capreolus capreolus 2,ad,Girdles,Small,2,5,0,1,0,0,0,other,other,0,0,other,0,0
+Scavenging,Equus caballus 1,ad,Appendicular,Large,3,0,0,0,0,0,2,0,0,0,other,other,0,0
+Predation,Ovis aries 11,inf,V. Thoracic,Small,0,0,1,0,0,0,0,0,0,0,0,0,spinous_process,0
+Predation,Capra hircus 42,ad,Rib,Small,0,0,1,1,0,0,0,0,shaft,0,0,0,shaft,0
+Predation,Equus caballus 20,inf,Appendicular,Small,0,0,0,0,0,0,1,0,0,0,other,0,0,0
+Predation,Ovis aries 24,ad,V. Thoracic,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Predation,Ovis aries 44,ad,Girdles,Small,0,0,0,0,0,1,0,0,0,other,0,0,0,0
+Predation,Ovis aries 39,ad,V. Thoracic,Small,1,0,1,0,0,0,0,0,0,0,0,spinous_process,spinous_process,0
+Predation,Ovis aries 11,inf,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Scavenging,Equus caballus 35,inf,V. Thoracic,Small,0,0,0,3,0,0,0,0,spinous_process,0,0,0,0,0
+Predation,Equus caballus 36,inf,V. Cervical,Small,0,0,0,1,0,0,0,0,transverse_process,0,0,0,0,0
+Predation,Ovis aries 13,ad,V. Lumbar,Small,0,0,0,0,0,1,0,0,0,transverse_process,0,0,0,0
+Predation,Ovis aries 24,ad,V. Thoracic,Small,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Predation,Ovis aries 18,juv,V. Cervical,Small,0,0,0,1,0,0,0,0,transverse_process,0,0,0,0,0
+Predation,Capra hircus 46,juv,V. Thoracic,Small,0,0,0,3,0,0,0,0,transverse_process,0,0,0,0,0
+Scavenging,Capreolus capreolus 5,juv,V. Thoracic,Small,2,0,1,0,0,0,0,0,0,0,0,spinous_process,spinous_process,0
+Predation,Ovis aries 14,sen,V. Cervical,Small,0,0,1,0,0,0,0,0,0,0,0,0,transverse_process,0
+Predation,Ovis aries 45,ad,Rib,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Predation,Ovis aries 25,ad,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,neck,0
+Predation,Ovis aries 22,juv,V. Thoracic,Small,0,0,1,0,0,0,0,0,0,0,0,0,spinous_process,0
+Scavenging,Cervus elaphus 4,juv,Rib,Large,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Predation,Ovis aries 45,ad,V. Cervical,Small,0,0,0,1,0,0,0,0,spinous_process,0,0,0,0,0
+Predation,Capra hircus 46,juv,V. Thoracic,Small,0,0,0,2,0,0,0,0,transverse_process,0,0,0,0,0
+Predation,Equus caballus 36,inf,V. Thoracic,Small,0,0,0,2,0,0,0,0,spinous_process,0,0,0,0,0
+Scavenging,Cervus elaphus 6,ad,V. Lumbar,Large,0,1,2,0,0,0,0,other,0,0,0,0,transverse_process,0
+Predation,Ovis aries 32,ad,Girdles,Small,0,0,0,1,0,1,0,0,other,other,0,0,0,0
+Predation,Ovis aries 14,sen,Rib,Small,0,0,0,0,1,0,0,0,0,0,0,0,0,dist_shaft
+Predation,Ovis aries 11,inf,V. Lumbar,Small,0,0,1,1,0,0,0,0,spinous_process,0,0,0,transverse_process,0
+Predation,Ovis aries 10,ad,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Predation,Ovis aries 17,sen,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Predation,Ovis aries 13,ad,Rib,Small,1,0,1,0,1,0,0,0,0,0,0,dist_shaft,dist_shaft,dist_shaft
+Predation,Capra hircus 12,juv,Rib,Small,2,0,0,1,0,0,0,0,shaft,0,0,shaft,0,0
+Predation,Ovis aries 10,ad,V. Cervical,Small,0,2,1,1,0,0,0,other,transverse_process,0,0,0,transverse_process,0
+Scavenging,Equus caballus 41,inf,V. Cervical,Small,0,0,0,1,0,0,0,0,other,0,0,0,0,0
+Scavenging,Capreolus capreolus 2,ad,V. Thoracic,Small,0,0,1,0,0,0,0,0,0,0,0,0,spinous_process,0
+Predation,Ovis aries 17,sen,V. Thoracic,Small,0,0,0,0,1,0,0,0,0,0,0,0,0,spinous_process
+Predation,Equus caballus 36,inf,Appendicular,Small,0,0,0,0,0,0,1,0,0,0,other,0,0,0
+Scavenging,Capra hircus 37,juv,V. Thoracic,Small,0,0,0,0,1,0,0,0,0,0,0,0,0,spinous_process
+Predation,Ovis aries 30,ad,Rib,Small,0,0,0,0,1,0,0,0,0,0,0,0,0,dist_shaft
+Predation,Ovis aries 24,ad,Rib,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Predation,Equus caballus 20,inf,Rib,Small,0,0,0,2,0,0,0,0,dist_shaft,0,0,0,0,0
+Predation,Equus caballus 33,inf,V. Thoracic,Small,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Predation,Ovis aries 32,ad,Appendicular,Small,0,0,0,0,1,0,1,0,0,0,other,0,0,other
+Predation,Ovis aries 25,ad,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Scavenging,Cervus elaphus 4,juv,Appendicular,Large,0,0,0,0,0,0,1,0,0,0,other,0,0,0
+Predation,Ovis aries 30,ad,Rib,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Predation,Ovis aries 31,sen,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Scavenging,Equus caballus 35,inf,Cranial,Small,3,2,0,2,0,0,0,other,other,0,0,other,0,0
+Scavenging,Equus caballus 41,inf,Appendicular,Small,0,0,0,1,0,0,0,0,other,0,0,0,0,0
+Predation,Capra hircus 42,ad,Appendicular,Small,7,6,3,0,0,0,0,shaft,0,0,0,shaft,shaft,0
+Predation,Ovis aries 10,ad,Rib,Small,1,0,1,0,0,0,0,0,0,0,0,other,other,0
+Predation,Ovis aries 11,inf,Rib,Small,1,0,0,1,0,0,0,0,dist_shaft,0,0,dist_shaft,0,0
+Predation,Capra hircus 42,ad,Cranial,Small,0,0,1,0,0,0,0,0,0,0,0,0,other,0
+Scavenging,Capra hircus 37,juv,Rib,Small,3,0,1,1,1,0,0,0,dist_shaft,0,0,other,other,other
+Predation,Ovis aries 10,ad,Rib,Small,0,0,0,0,1,0,0,0,0,0,0,0,0,dist_shaft
+Predation,Ovis aries 19,ad,Rib,Small,0,0,0,0,1,0,0,0,0,0,0,0,0,other
+Scavenging,Capreolus capreolus 5,juv,Girdles,Small,0,0,1,0,0,1,0,0,0,other,0,0,neck,0
+Scavenging,Equus caballus 1,ad,V. Thoracic,Large,0,0,0,1,0,0,0,0,spinous_process,0,0,0,0,0
+Predation,Ovis aries 11,inf,V. Thoracic,Small,1,0,0,0,0,0,0,0,0,0,0,other,0,0
+Predation,Equus caballus 33,inf,V. Lumbar,Small,0,0,1,1,0,0,0,0,spinous_process,0,0,0,transverse_process,0
+Predation,Ovis aries 17,sen,Rib,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Predation,Ovis aries 25,ad,Rib,Small,2,0,0,1,0,0,0,0,dist_shaft,0,0,dist_shaft,0,0
+Predation,Ovis aries 10,ad,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,shaft,0
+Predation,Capra hircus 42,ad,Rib,Small,0,0,0,2,0,0,0,0,shaft,0,0,0,0,0
+Scavenging,Equus caballus 41,inf,V. Lumbar,Small,0,0,0,0,1,0,0,0,0,0,0,0,0,spinous_process
+Predation,Equus caballus 33,inf,V. Cervical,Small,0,1,0,0,0,0,0,other,0,0,0,0,0,0
+Scavenging,Capra hircus 37,juv,Rib,Small,0,0,0,1,1,0,0,0,dist_shaft,0,0,0,0,dist_shaft
+Predation,Ovis aries 45,ad,V. Cervical,Small,0,0,0,0,1,0,0,0,0,0,0,0,0,spinous_process
+Predation,Ovis aries 11,inf,V. Lumbar,Small,0,0,1,0,1,1,0,0,0,spinous_process,0,0,transverse_process,transverse_process
+Predation,Ovis aries 32,ad,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Predation,Equus caballus 20,inf,V. Lumbar,Small,0,0,0,3,0,0,0,0,spinous_process,0,0,0,0,0
+Scavenging,Cervus elaphus 4,juv,Appendicular,Large,1,0,0,0,0,0,1,0,0,0,other,other,0,0
+Scavenging,Cervus elaphus 4,juv,V. Cervical,Large,20,4,0,0,0,0,1,spinous_process,0,0,other,spinous_process,0,0
+Scavenging,Capra hircus 37,juv,Appendicular,Small,0,0,1,0,0,0,0,0,0,0,0,0,shaft,0
+Scavenging,Cervus elaphus 6,ad,V. Thoracic,Large,0,0,0,1,0,0,0,0,spinous_process,0,0,0,0,0
+Predation,Equus caballus 36,inf,Rib,Small,1,0,0,1,0,0,0,0,dist_shaft,0,0,dist_shaft,0,0
+Predation,Ovis aries 30,ad,V. Lumbar,Small,0,0,0,1,0,0,0,0,transverse_process,0,0,0,0,0
+Predation,Ovis aries 32,ad,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Scavenging,Cervus elaphus 16,juv,V. Lumbar,Large,0,0,1,0,0,0,0,0,0,0,0,0,other,0
+Scavenging,Cervus elaphus 16,juv,V. Lumbar,Large,0,0,1,0,0,0,0,0,0,0,0,0,other,0
+Predation,Ovis aries 11,inf,Rib,Small,0,3,0,1,0,0,0,dist_shaft,dist_shaft,0,0,0,0,0
+Scavenging,Capreolus capreolus 5,juv,Rib,Small,3,0,0,0,0,0,0,0,0,0,0,shaft,0,0
+Predation,Ovis aries 34,ad,V. Cervical,Small,0,0,0,1,0,0,0,0,transverse_process,0,0,0,0,0
+Predation,Ovis aries 34,ad,V. Lumbar,Small,0,0,1,0,0,0,0,0,0,0,0,0,transverse_process,0
+Predation,Equus caballus 20,inf,Appendicular,Small,1,0,1,0,0,0,0,0,0,0,0,other,other,0
+Scavenging,Equus caballus 1,ad,Rib,Large,3,1,0,0,0,0,0,dist_shaft,0,0,0,dist_shaft,0,0
+Predation,Capra hircus 42,ad,Rib,Small,1,0,2,0,0,0,0,0,0,0,0,other,neck,0
+Scavenging,Cervus elaphus 4,juv,V. Lumbar,Large,3,0,1,0,1,0,0,0,0,0,0,body,spinous_process,transverse_process
+Scavenging,Cervus elaphus 4,juv,Rib,Large,0,0,0,0,1,0,0,0,0,0,0,0,0,dist_shaft
+Scavenging,Equus caballus 41,inf,Rib,Small,0,0,1,1,0,0,0,0,other,0,0,0,other,0
+Scavenging,Cervus elaphus 4,juv,Rib,Large,3,0,0,0,0,0,0,0,0,0,0,dist_shaft,0,0
+Scavenging,Cervus elaphus 16,juv,Rib,Large,0,0,0,0,1,0,0,0,0,0,0,0,0,dist_shaft
+Predation,Capra hircus 46,juv,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Predation,Ovis aries 25,ad,V. Thoracic,Small,0,0,0,1,0,0,0,0,spinous_process,0,0,0,0,0
+Predation,Equus caballus 33,inf,V. Thoracic,Small,0,0,0,2,0,0,1,0,spinous_process,0,other,0,0,0
+Predation,Capra hircus 46,juv,Rib,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Predation,Sus scrofa 29,juv,V. Lumbar,Small,0,0,1,0,0,0,0,0,0,0,0,0,transverse_process,0
+Scavenging,Cervus elaphus 16,juv,V. Cervical,Large,0,0,0,3,0,0,0,0,spinous_process,0,0,0,0,0
+Predation,Equus caballus 20,inf,V. Thoracic,Small,0,0,0,3,0,0,0,0,spinous_process,0,0,0,0,0
+Scavenging,Cervus elaphus 15,juv,V. Thoracic,Large,0,0,0,1,0,1,0,0,spinous_process,spinous_process,0,0,0,0
+Predation,Ovis aries 40,ad,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,neck,0
+Predation,Equus caballus 20,inf,Rib,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Predation,Ovis aries 22,juv,Axial,Small,7,0,1,1,0,0,0,0,other,0,0,body,spinous_process,0
+Scavenging,Capreolus capreolus 2,ad,V. Lumbar,Small,0,0,1,0,0,0,0,0,0,0,0,0,spinous_process,0
+Predation,Ovis aries 18,juv,Appendicular,Small,0,0,1,0,0,0,0,0,0,0,0,0,shaft,0
+Predation,Sus scrofa 29,juv,V. Thoracic,Small,0,0,1,0,0,0,0,0,0,0,0,0,spinous_process,0
+Scavenging,Cervus elaphus 6,ad,Rib,Large,0,0,0,1,0,0,0,0,shaft,0,0,0,0,0
+Predation,Ovis aries 10,ad,V. Cervical,Small,6,5,0,0,0,0,1,other,0,0,other,other,0,0
+Predation,Ovis aries 44,ad,V. Cervical,Small,0,0,0,1,0,0,0,0,transverse_process,0,0,0,0,0
+Predation,Ovis aries 11,inf,V. Thoracic,Small,0,0,1,0,0,0,0,0,0,0,0,0,spinous_process,0
+Scavenging,Capreolus capreolus 3,ad,V. Thoracic,Small,5,0,1,0,1,0,0,0,0,0,0,body,other,spinous_process
+Predation,Ovis aries 14,sen,V. Thoracic,Small,0,0,1,0,0,0,0,0,0,0,0,0,spinous_process,0
+Predation,Capra hircus 46,juv,V. Lumbar,Small,0,0,1,0,0,0,0,0,0,0,0,0,spinous_process,0
+Scavenging,Equus caballus 1,ad,Appendicular,Large,0,0,0,0,0,0,1,0,0,0,other,0,0,0
+Scavenging,Capreolus capreolus 2,ad,Rib,Small,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Predation,Capra hircus 42,ad,Girdles,Small,0,0,0,2,0,1,0,0,other,other,0,0,0,0
+Predation,Ovis aries 11,inf,V. Lumbar,Small,0,0,1,0,1,1,0,0,0,spinous_process,0,0,transverse_process,transverse_process
+Predation,Ovis aries 45,ad,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Scavenging,Bos taurus 7,ad,V. Thoracic,Large,0,4,1,0,0,0,0,spinous_process,0,0,0,0,spinous_process,0
+Scavenging,Cervus elaphus 16,juv,Axial,Large,0,0,0,1,0,0,0,0,other,0,0,0,0,0
+Scavenging,Equus caballus 35,inf,V. Lumbar,Small,0,0,0,3,0,0,0,0,spinous_process,0,0,0,0,0
+Scavenging,Equus caballus 1,ad,V. Thoracic,Large,0,0,1,0,0,0,0,0,0,0,0,0,spinous_process,0
+Predation,Equus caballus 20,inf,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Scavenging,Cervus elaphus 16,juv,Rib,Large,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Predation,Capra hircus 42,ad,Rib,Small,3,1,1,1,0,0,0,dist_shaft,dist_shaft,0,0,dist_shaft,other,0
+Predation,Ovis aries 14,sen,V. Thoracic,Small,0,0,2,0,0,0,0,0,0,0,0,0,spinous_process,0
+Predation,Ovis aries 17,sen,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Predation,Capra hircus 42,ad,Rib,Small,1,0,1,0,0,0,0,0,0,0,0,shaft,dist_shaft,0
+Predation,Ovis aries 18,juv,Appendicular,Small,0,0,1,0,0,0,0,0,0,0,0,0,shaft,0
+Scavenging,Capreolus capreolus 5,juv,V. Cervical,Small,0,0,1,0,0,0,0,0,0,0,0,0,other,0
+Predation,Ovis aries 45,ad,Rib,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Predation,Ovis aries 25,ad,V. Lumbar,Small,0,0,0,1,1,0,0,0,transverse_process,0,0,0,0,0
+Predation,Equus caballus 20,inf,V. Thoracic,Small,0,0,0,1,0,0,0,0,spinous_process,0,0,0,0,0
+Predation,Ovis aries 44,ad,Rib,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Scavenging,Bos taurus 7,ad,V. Thoracic,Large,0,2,1,0,0,1,0,spinous_process,0,spinous_process,0,0,spinous_process,0
+Predation,Ovis aries 18,juv,Cranial,Small,0,2,0,2,0,0,0,other,other,0,0,0,0,0
+Predation,Ovis aries 34,ad,Axial,Small,3,0,0,2,0,0,0,0,other,0,0,body,0,0
+Scavenging,Equus caballus 1,ad,V. Cervical,Large,0,0,1,0,0,0,1,0,0,0,other,0,other,0
+Predation,Capra hircus 12,juv,Girdles,Small,8,0,0,1,1,0,0,0,other,0,0,other,0,spinous_process
+Predation,Ovis aries 25,ad,Girdles,Small,9,2,0,0,0,0,2,other,0,0,other,other,0,0
+Predation,Ovis aries 44,ad,V. Thoracic,Small,0,0,0,0,1,0,0,0,0,0,0,0,0,spinous_process
+Predation,Ovis aries 11,inf,Rib,Small,0,2,0,1,0,0,0,dist_shaft,dist_shaft,0,0,0,0,0
+Scavenging,Equus caballus 35,inf,Rib,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Predation,Ovis aries 30,ad,Rib,Small,1,0,0,1,0,0,0,0,dist_shaft,0,0,dist_shaft,0,0
+Predation,Equus caballus 20,inf,Axial,Small,0,0,0,0,0,0,1,0,0,0,other,0,0,0
+Predation,Ovis aries 34,ad,Rib,Small,0,0,0,0,0,1,0,0,0,other,0,0,0,0
+Predation,Ovis aries 18,juv,Appendicular,Small,2,1,2,0,0,0,0,shaft,0,0,0,shaft,shaft,0
+Scavenging,Equus caballus 35,inf,Girdles,Small,0,0,0,2,0,0,0,0,other,0,0,0,0,0
+Predation,Ovis aries 22,juv,Girdles,Small,0,0,0,2,0,0,0,0,other,0,0,0,0,0
+Predation,Ovis aries 32,ad,Rib,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Predation,Ovis aries 45,ad,V. Cervical,Small,0,0,0,1,0,0,0,0,spinous_process,0,0,0,0,0
+Scavenging,Cervus elaphus 16,juv,V. Thoracic,Large,0,0,1,0,0,0,0,0,0,0,0,0,spinous_process,0
+Predation,Ovis aries 18,juv,Appendicular,Small,2,0,1,0,0,0,0,0,0,0,0,shaft,shaft,0
+Predation,Ovis aries 39,ad,V. Thoracic,Small,0,0,1,0,0,0,0,0,0,0,0,0,spinous_process,0
+Scavenging,Capreolus capreolus 3,ad,V. Lumbar,Small,0,0,2,0,1,0,0,0,0,0,0,0,transverse_process,spinous_process
+Predation,Ovis aries 40,ad,V. Lumbar,Small,0,0,0,0,1,0,0,0,0,0,0,0,0,transverse_process
+Scavenging,Capreolus capreolus 5,juv,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Scavenging,Cervus elaphus 4,juv,Axial,Large,4,0,0,0,0,0,1,0,0,0,body,body,0,0
+Predation,Ovis aries 14,sen,V. Thoracic,Small,0,0,0,0,0,1,0,0,0,spinous_process,0,0,0,0
+Predation,Equus caballus 20,inf,V. Thoracic,Small,0,0,0,1,0,0,0,0,spinous_process,0,0,0,0,0
+Scavenging,Equus caballus 41,inf,Rib,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Predation,Equus caballus 20,inf,V. Thoracic,Small,0,0,0,3,0,0,0,0,spinous_process,0,0,0,0,0
+Scavenging,Capreolus capreolus 2,ad,Rib,Small,1,1,0,0,0,0,0,dist_shaft,0,0,0,dist_shaft,0,0
+Predation,Ovis aries 30,ad,Rib,Small,0,0,0,0,1,0,0,0,0,0,0,0,0,dist_shaft
+Scavenging,Cervus elaphus 15,juv,V. Thoracic,Large,0,0,1,0,0,0,0,0,0,0,0,0,spinous_process,0
+Predation,Ovis aries 25,ad,Appendicular,Small,5,0,0,0,0,0,1,0,0,0,other,other,0,0
+Predation,Ovis aries 17,sen,Rib,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Scavenging,Capra hircus 37,juv,V. Cervical,Small,0,0,0,3,0,0,0,0,transverse_process,0,0,0,0,0
+Predation,Ovis aries 17,sen,Rib,Small,0,0,0,1,1,0,0,0,dist_shaft,0,0,0,0,dist_shaft
+Predation,Ovis aries 24,ad,V. Lumbar,Small,0,0,0,1,0,1,0,0,spinous_process,transverse_process,0,0,0,0
+Predation,Ovis aries 13,ad,Rib,Small,0,0,0,0,0,1,0,0,0,other,0,0,0,0
+Scavenging,Equus caballus 1,ad,V. Thoracic,Large,0,0,0,0,1,0,0,0,0,0,0,0,0,spinous_process
+Scavenging,Bos taurus 7,ad,Appendicular,Large,0,0,0,0,0,1,1,0,0,other,other,0,0,0
+Scavenging,Equus caballus 1,ad,Rib,Large,0,0,1,0,0,0,0,0,0,0,0,0,neck,0
+Predation,Capra hircus 46,juv,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Predation,Ovis aries 17,sen,V. Thoracic,Small,0,0,1,0,0,0,0,0,0,0,0,0,spinous_process,0
+Predation,Ovis aries 45,ad,Axial,Small,0,0,0,1,0,0,0,0,other,0,0,0,0,0
+Predation,Ovis aries 32,ad,Rib,Small,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Predation,Ovis aries 14,sen,Rib,Small,0,0,0,0,0,1,0,0,0,other,0,0,0,0
+Scavenging,Cervus elaphus 16,juv,Rib,Large,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Scavenging,Capreolus capreolus 2,ad,Rib,Small,0,2,0,0,0,0,0,dist_shaft,0,0,0,0,0,0
+Predation,Ovis aries 40,ad,Axial,Small,0,0,1,0,0,0,0,0,0,0,0,0,other,0
+Predation,Ovis aries 18,juv,Appendicular,Small,4,0,1,1,1,0,0,0,shaft,0,0,shaft,shaft,other
+Scavenging,Cervus elaphus 4,juv,Rib,Large,0,1,0,0,0,0,0,shaft,0,0,0,0,0,0
+Predation,Ovis aries 45,ad,Rib,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Scavenging,Capreolus capreolus 5,juv,V. Thoracic,Small,0,1,1,0,0,0,0,spinous_process,0,0,0,0,spinous_process,0
+Predation,Ovis aries 22,juv,Appendicular,Small,5,0,0,0,0,0,0,0,0,0,0,other,0,0
+Predation,Equus caballus 36,inf,V. Thoracic,Small,0,0,0,2,0,0,0,0,spinous_process,0,0,0,0,0
+Predation,Ovis aries 11,inf,V. Lumbar,Small,0,0,2,0,1,0,0,0,0,0,0,0,spinous_process,transverse_process
+Scavenging,Cervus elaphus 4,juv,Appendicular,Large,0,0,0,0,0,0,1,0,0,0,other,0,0,0
+Scavenging,Capreolus capreolus 2,ad,Rib,Small,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Predation,Ovis aries 10,ad,Rib,Small,5,4,1,0,1,0,0,dist_shaft,0,0,0,dist_shaft,dist_shaft,dist_shaft
+Predation,Ovis aries 24,ad,V. Thoracic,Small,0,0,0,0,1,0,0,0,0,0,0,0,0,dist_shaft
+Predation,Capra hircus 12,juv,V. Lumbar,Small,0,0,0,0,2,0,0,0,0,0,0,0,0,transverse_process
+Predation,Ovis aries 45,ad,V. Lumbar,Small,0,0,0,0,1,0,0,0,0,0,0,0,0,spinous_process
+Predation,Ovis aries 17,sen,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Predation,Ovis aries 24,ad,V. Thoracic,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Scavenging,Capra hircus 37,juv,Rib,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Predation,Ovis aries 17,sen,Rib,Small,3,0,1,0,0,0,0,0,0,0,0,dist_shaft,dist_shaft,0
+Predation,Ovis aries 13,ad,V. Thoracic,Small,0,0,1,0,0,0,0,0,0,0,0,0,transverse_process,0
+Predation,Ovis aries 39,ad,V. Lumbar,Small,0,0,0,0,0,2,0,0,0,transverse_process,0,0,0,0
+Predation,Ovis aries 14,sen,Rib,Small,1,0,0,0,0,0,0,0,0,0,0,other,0,0
+Scavenging,Cervus elaphus 6,ad,V. Lumbar,Large,4,0,2,0,0,0,0,0,0,0,0,transverse_process,transverse_process,0
+Predation,Ovis aries 18,juv,Rib,Small,1,2,0,1,0,0,0,dist_shaft,dist_shaft,0,0,dist_shaft,0,0
+Scavenging,Capreolus capreolus 5,juv,V. Lumbar,Small,0,0,1,0,0,0,0,0,0,0,0,0,transverse_process,0
+Predation,Ovis aries 30,ad,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Predation,Ovis aries 14,sen,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,neck,0
+Predation,Ovis aries 25,ad,Rib,Small,1,1,0,0,0,0,0,dist_shaft,0,0,0,dist_shaft,0,0
+Predation,Ovis aries 14,sen,Rib,Small,0,2,0,0,1,0,0,dist_shaft,0,0,0,0,0,dist_shaft
+Predation,Ovis aries 18,juv,Rib,Small,0,1,0,1,0,0,0,dist_shaft,other,0,0,0,0,0
+Scavenging,Capra hircus 37,juv,Rib,Small,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Scavenging,Equus caballus 41,inf,Rib,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Predation,Ovis aries 17,sen,Axial,Small,2,0,0,1,0,0,0,0,spinous_process,0,0,other,0,0
+Scavenging,Cervus elaphus 4,juv,V. Thoracic,Large,0,0,1,0,0,0,0,0,0,0,0,0,spinous_process,0
+Predation,Equus caballus 36,inf,Cranial,Small,0,2,0,1,0,0,0,other,other,0,0,0,0,0
+Predation,Equus caballus 20,inf,V. Thoracic,Small,0,0,0,1,0,0,0,0,spinous_process,0,0,0,0,0
+Predation,Ovis aries 11,inf,V. Cervical,Small,0,2,2,0,0,0,0,other,0,0,0,0,transverse_process,0
+Scavenging,Capreolus capreolus 5,juv,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Predation,Capra hircus 38,ad,Appendicular,Small,0,0,1,0,0,0,0,0,0,0,0,0,shaft,0
+Scavenging,Capreolus capreolus 2,ad,Rib,Small,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Predation,Equus caballus 36,inf,V. Thoracic,Small,0,1,0,0,0,0,0,other,0,0,0,0,0,0
+Scavenging,Equus caballus 41,inf,Appendicular,Small,0,0,0,1,0,0,1,0,other,0,other,0,0,0
+Scavenging,Capra hircus 37,juv,Appendicular,Small,0,0,2,0,0,0,0,0,0,0,0,0,other,0
+Scavenging,Capreolus capreolus 5,juv,V. Thoracic,Small,1,1,1,0,0,0,0,spinous_process,0,0,0,spinous_process,spinous_process,0
+Scavenging,Cervus elaphus 6,ad,V. Thoracic,Large,0,0,1,0,0,1,1,0,0,other,body,0,spinous_process,0
+Scavenging,Capreolus capreolus 2,ad,V. Lumbar,Small,0,0,0,0,1,1,0,0,0,spinous_process,0,0,0,transverse_process
+Scavenging,Equus caballus 35,inf,V. Cervical,Small,0,0,0,3,0,0,0,0,other,0,0,0,0,0
+Predation,Ovis aries 19,ad,Rib,Small,0,1,1,0,0,0,0,dist_shaft,0,0,0,0,shaft,0
+Predation,Ovis aries 22,juv,Girdles,Small,6,0,0,1,0,0,0,0,other,0,0,other,0,0
+Predation,Equus caballus 36,inf,V. Thoracic,Small,0,0,0,1,0,0,0,0,spinous_process,0,0,0,0,0
+Predation,Ovis aries 45,ad,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Predation,Ovis aries 17,sen,V. Thoracic,Small,0,0,1,0,0,0,0,0,0,0,0,0,spinous_process,0
+Scavenging,Cervus elaphus 16,juv,Girdles,Large,2,0,0,1,0,0,1,0,other,0,other,other,0,0
+Scavenging,Cervus elaphus 6,ad,Girdles,Large,3,0,0,2,0,0,0,0,other,0,0,other,0,0
+Predation,Ovis aries 24,ad,V. Lumbar,Small,0,0,0,0,1,1,0,0,0,spinous_process,0,0,0,transverse_process
+Predation,Equus caballus 33,inf,V. Lumbar,Small,0,0,0,1,1,0,0,0,transverse_process,0,0,0,0,transverse_process
+Predation,Ovis aries 32,ad,Rib,Small,0,0,0,0,1,0,0,0,0,0,0,0,0,dist_shaft
+Predation,Capra hircus 46,juv,Rib,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Scavenging,Equus caballus 1,ad,Girdles,Large,2,0,0,0,0,0,0,0,0,0,0,other,0,0
+Predation,Ovis aries 34,ad,Axial,Small,0,0,1,0,0,0,0,0,0,0,0,0,shaft,0
+Scavenging,Equus caballus 41,inf,V. Cervical,Small,0,0,0,1,0,0,0,0,other,0,0,0,0,0
+Scavenging,Equus caballus 1,ad,V. Thoracic,Large,0,0,0,0,0,0,1,0,0,0,body,0,0,0
+Scavenging,Cervus elaphus 16,juv,Rib,Large,2,0,0,1,0,0,0,0,dist_shaft,0,0,dist_shaft,0,0
+Predation,Ovis aries 11,inf,Rib,Small,1,0,1,0,0,0,0,0,0,0,0,dist_shaft,dist_shaft,0
+Predation,Ovis aries 32,ad,Rib,Small,0,0,0,0,1,0,0,0,0,0,0,0,0,dist_shaft
+Predation,Equus caballus 36,inf,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Scavenging,Cervus elaphus 16,juv,V. Lumbar,Large,0,0,0,1,0,0,0,0,transverse_process,0,0,0,0,0
+Scavenging,Equus caballus 1,ad,V. Lumbar,Large,0,0,2,0,0,0,0,0,0,0,0,0,transverse_process,0
+Predation,Ovis aries 31,sen,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Scavenging,Capreolus capreolus 5,juv,V. Cervical,Small,0,0,0,0,0,1,0,0,0,other,0,0,0,0
+Scavenging,Bos taurus 7,ad,Rib,Large,0,5,1,0,0,0,0,dist_shaft,0,0,0,0,dist_shaft,0
+Predation,Ovis aries 25,ad,Rib,Small,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Predation,Equus caballus 33,inf,Rib,Small,0,2,0,0,0,0,0,dist_shaft,0,0,0,0,0,0
+Predation,Equus caballus 20,inf,V. Lumbar,Small,0,0,0,3,0,0,0,0,spinous_process,0,0,0,0,0
+Scavenging,Cervus elaphus 6,ad,Rib,Large,0,2,1,0,1,0,0,shaft,0,0,0,0,shaft,other
+Predation,Ovis aries 11,inf,Rib,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Predation,Ovis aries 44,ad,Appendicular,Small,0,0,1,0,0,0,0,0,0,0,0,0,other,0
+Predation,Ovis aries 8,sen,V. Lumbar,Small,0,0,0,0,2,0,0,0,0,0,0,0,0,transverse_process
+Predation,Ovis aries 34,ad,Appendicular,Small,0,0,0,1,0,0,0,0,other,0,0,0,0,0
+Scavenging,Equus caballus 1,ad,Girdles,Large,0,3,0,0,0,0,0,other,0,0,0,0,0,0
+Scavenging,Equus caballus 35,inf,Rib,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Predation,Capra hircus 38,ad,Appendicular,Small,1,0,0,0,0,0,1,0,0,0,other,other,0,0
+Scavenging,Equus caballus 35,inf,V. Thoracic,Small,0,0,0,3,0,0,0,0,spinous_process,0,0,0,0,0
+Predation,Sus scrofa 29,juv,V. Cervical,Small,0,0,2,0,0,0,0,0,0,0,0,0,transverse_process,0
+Predation,Ovis aries 40,ad,V. Lumbar,Small,0,0,1,0,0,0,0,0,0,0,0,0,transverse_process,0
+Predation,Ovis aries 18,juv,Axial,Small,2,2,0,0,0,0,0,shaft,0,0,0,body,0,0
+Scavenging,Equus caballus 35,inf,Axial,Small,0,0,0,1,0,0,0,0,spinous_process,0,0,0,0,0
+Scavenging,Equus caballus 35,inf,Rib,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Scavenging,Cervus elaphus 16,juv,Rib,Large,0,0,0,0,1,0,0,0,0,0,0,0,0,other
+Scavenging,Equus caballus 1,ad,V. Lumbar,Large,0,0,2,0,1,0,0,0,0,0,0,0,spinous_process,transverse_process
+Predation,Ovis aries 24,ad,V. Lumbar,Small,0,0,0,1,0,0,0,0,spinous_process,0,0,0,0,0
+Predation,Ovis aries 45,ad,Axial,Small,0,0,1,0,0,0,0,0,0,0,0,0,transverse_process,0
+Predation,Ovis aries 39,ad,V. Lumbar,Small,0,0,0,0,0,1,0,0,0,transverse_process,0,0,0,0
+Scavenging,Equus caballus 1,ad,Appendicular,Large,0,0,0,0,0,0,1,0,0,0,other,0,0,0
+Scavenging,Cervus elaphus 15,juv,V. Lumbar,Large,0,0,1,0,0,0,0,0,0,0,0,0,transverse_process,0
+Scavenging,Cervus elaphus 4,juv,V. Thoracic,Large,1,0,1,0,0,0,0,0,0,0,0,transverse_process,spinous_process,0
+Predation,Capra hircus 46,juv,V. Lumbar,Small,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Scavenging,Equus caballus 35,inf,V. Thoracic,Small,0,0,0,3,0,0,0,0,spinous_process,0,0,0,0,0
+Predation,Ovis aries 17,sen,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Predation,Equus caballus 33,inf,V. Thoracic,Small,0,0,0,0,1,0,0,0,0,0,0,0,0,spinous_process
+Predation,Equus caballus 20,inf,Rib,Small,0,0,1,1,0,0,0,0,dist_shaft,0,0,0,other,0
+Scavenging,Capreolus capreolus 2,ad,Rib,Small,1,0,0,0,0,0,0,0,0,0,0,dist_shaft,0,0
+Scavenging,Cervus elaphus 15,juv,Rib,Large,5,0,0,0,0,0,0,0,0,0,0,other,0,0
+Predation,Equus caballus 20,inf,Axial,Small,0,0,0,1,0,0,0,0,spinous_process,0,0,0,0,0
+Predation,Equus caballus 20,inf,Axial,Small,0,0,0,2,0,0,0,0,spinous_process,0,0,0,0,0
+Scavenging,Cervus elaphus 4,juv,Rib,Large,2,0,0,0,0,0,0,0,0,0,0,shaft,0,0
+Predation,Ovis aries 45,ad,Rib,Small,2,0,0,1,0,0,0,0,dist_shaft,0,0,dist_shaft,0,0
+Predation,Ovis aries 17,sen,Rib,Small,1,0,0,1,0,0,0,0,other,0,0,dist_shaft,0,0
+Predation,Equus caballus 36,inf,V. Thoracic,Small,0,0,0,2,0,0,0,0,transverse_process,0,0,0,0,0
+Scavenging,Equus caballus 35,inf,Rib,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Predation,Equus caballus 36,inf,Rib,Small,0,0,1,1,0,0,0,0,dist_shaft,0,0,0,dist_shaft,0
+Scavenging,Bos taurus 7,ad,Rib,Large,9,0,0,1,0,0,0,0,dist_shaft,0,0,dist_shaft,0,0
+Scavenging,Cervus elaphus 15,juv,V. Cervical,Large,0,0,0,1,0,0,0,0,transverse_process,0,0,0,0,0
+Predation,Ovis aries 32,ad,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Predation,Ovis aries 18,juv,V. Cervical,Small,0,0,0,2,0,0,0,0,transverse_process,0,0,0,0,0
+Scavenging,Cervus elaphus 6,ad,V. Thoracic,Large,0,0,0,0,0,1,0,0,0,spinous_process,0,0,0,0
+Predation,Ovis aries 14,sen,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Scavenging,Cervus elaphus 15,juv,Rib,Large,1,0,0,1,0,0,0,0,dist_shaft,0,0,shaft,0,0
+Predation,Equus caballus 20,inf,V. Cervical,Small,0,0,1,1,0,0,0,0,transverse_process,0,0,0,other,0
+Predation,Ovis aries 11,inf,Rib,Small,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Predation,Equus caballus 33,inf,V. Thoracic,Small,1,0,0,0,0,0,0,0,0,0,0,spinous_process,0,0
+Scavenging,Cervus elaphus 15,juv,Rib,Large,1,0,1,0,0,0,0,0,0,0,0,dist_shaft,shaft,0
+Predation,Ovis aries 25,ad,V. Thoracic,Small,0,0,0,1,0,0,0,0,spinous_process,0,0,0,0,0
+Predation,Ovis aries 18,juv,Axial,Small,0,1,1,0,0,0,0,shaft,0,0,0,0,shaft,0
+Predation,Ovis aries 44,ad,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Predation,Ovis aries 24,ad,V. Lumbar,Small,0,0,0,0,0,1,0,0,0,spinous_process,0,0,0,0
+Predation,Ovis aries 25,ad,V. Thoracic,Small,0,1,0,1,0,0,0,spinous_process,spinous_process,0,0,0,0,0
+Scavenging,Equus caballus 41,inf,V. Cervical,Small,2,0,0,2,0,0,0,0,other,0,0,body,0,0
+Predation,Ovis aries 44,ad,V. Lumbar,Small,4,0,0,0,0,0,0,0,0,0,0,spinous_process,0,0
+Predation,Equus caballus 36,inf,V. Cervical,Small,0,0,0,2,0,0,1,0,other,0,other,0,0,0
+Scavenging,Equus caballus 35,inf,Rib,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Predation,Ovis aries 11,inf,Rib,Small,0,0,0,0,0,1,0,0,0,other,0,0,0,0
+Predation,Capra hircus 12,juv,Rib,Small,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Scavenging,Bos taurus 7,ad,Rib,Large,0,4,1,0,0,0,0,dist_shaft,0,0,0,0,dist_shaft,0
+Scavenging,Equus caballus 35,inf,Appendicular,Small,0,2,0,0,0,0,0,other,0,0,0,0,0,0
+Predation,Capra hircus 12,juv,V. Cervical,Small,0,0,0,1,0,0,0,0,other,0,0,0,0,0
+Predation,Equus caballus 20,inf,Rib,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Scavenging,Equus caballus 41,inf,V. Cervical,Small,0,0,0,1,0,0,1,0,other,0,body,0,0,0
+Predation,Equus caballus 36,inf,Rib,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Scavenging,Capreolus capreolus 5,juv,Appendicular,Small,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Scavenging,Capreolus capreolus 5,juv,V. Thoracic,Small,0,0,1,0,0,0,0,0,0,0,0,0,spinous_process,0
+Scavenging,Capreolus capreolus 2,ad,V. Thoracic,Small,0,0,1,0,0,0,0,0,0,0,0,0,spinous_process,0
+Predation,Ovis aries 18,juv,Girdles,Small,3,0,3,1,0,1,0,0,other,other,0,other,neck,0
+Scavenging,Cervus elaphus 6,ad,Appendicular,Large,1,2,0,0,0,1,1,other,0,other,other,other,0,0
+Predation,Ovis aries 9,ad,Rib,Small,0,25,0,1,0,0,0,shaft,shaft,0,0,0,0,0
+Predation,Sus scrofa 29,juv,V. Lumbar,Small,1,0,1,0,0,0,0,0,0,0,0,spinous_process,spinous_process,0
+Predation,Equus caballus 36,inf,Rib,Small,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Predation,Capra hircus 46,juv,Cranial,Small,0,4,0,0,0,0,0,other,0,0,0,0,0,0
+Predation,Equus caballus 20,inf,Rib,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Predation,Equus caballus 36,inf,Rib,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Predation,Ovis aries 13,ad,V. Lumbar,Small,1,0,1,1,0,0,0,0,transverse_process,0,0,transverse_process,transverse_process,0
+Scavenging,Cervus elaphus 15,juv,Girdles,Large,0,0,0,1,0,0,0,0,other,0,0,0,0,0
+Predation,Ovis aries 44,ad,V. Lumbar,Small,0,0,1,0,0,0,0,0,0,0,0,0,spinous_process,0
+Scavenging,Capreolus capreolus 5,juv,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,neck,0
+Scavenging,Capreolus capreolus 5,juv,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Scavenging,Capra hircus 37,juv,Cranial,Small,0,0,0,0,0,1,0,0,0,other,0,0,0,0
+Scavenging,Capra hircus 37,juv,Rib,Small,0,0,0,0,1,0,0,0,0,0,0,0,0,other
+Scavenging,Cervus elaphus 4,juv,Rib,Large,0,0,1,0,0,0,0,0,0,0,0,0,shaft,0
+Predation,Ovis aries 34,ad,Axial,Small,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Scavenging,Cervus elaphus 4,juv,Appendicular,Large,10,0,0,0,0,0,1,0,0,0,body,body,0,0
+Predation,Equus caballus 36,inf,V. Thoracic,Small,0,0,0,2,0,0,0,0,transverse_process,0,0,0,0,0
+Predation,Ovis aries 10,ad,V. Cervical,Small,0,0,1,1,0,0,0,0,transverse_process,0,0,0,transverse_process,0
+Predation,Ovis aries 25,ad,V. Thoracic,Small,6,0,0,2,0,0,1,0,spinous_process,0,other,body,0,0
+Scavenging,Cervus elaphus 4,juv,Rib,Large,2,0,0,1,0,0,0,0,dist_shaft,0,0,dist_shaft,0,0
+Scavenging,Cervus elaphus 16,juv,V. Cervical,Large,0,0,1,0,0,0,0,0,0,0,0,0,other,0
+Predation,Equus caballus 33,inf,V. Cervical,Small,2,0,0,1,0,0,0,0,spinous_process,0,0,spinous_process,0,0
+Predation,Ovis aries 14,sen,V. Lumbar,Small,0,0,1,0,1,1,0,0,0,spinous_process,0,0,other,transverse_process
+Scavenging,Cervus elaphus 4,juv,V. Thoracic,Large,0,0,1,0,0,0,0,0,0,0,0,0,spinous_process,0
+Predation,Ovis aries 40,ad,Girdles,Small,1,0,0,1,0,0,0,0,other,0,0,other,0,0
+Predation,Equus caballus 20,inf,V. Thoracic,Small,0,0,0,1,0,0,0,0,spinous_process,0,0,0,0,0
+Scavenging,Cervus elaphus 16,juv,V. Lumbar,Large,0,0,0,0,1,0,0,0,0,0,0,0,0,transverse_process
+Predation,Ovis aries 25,ad,Axial,Small,5,1,0,1,0,0,0,other,transverse_process,0,0,body,0,0
+Scavenging,Capreolus capreolus 5,juv,V. Thoracic,Small,0,0,1,0,0,0,0,0,0,0,0,0,spinous_process,0
+Predation,Ovis aries 11,inf,Rib,Small,3,0,1,0,0,0,0,0,0,0,0,dist_shaft,dist_shaft,0
+Predation,Ovis aries 11,inf,V. Thoracic,Small,0,0,1,0,0,0,0,0,0,0,0,0,spinous_process,0
+Predation,Ovis aries 17,sen,V. Lumbar,Small,0,0,2,0,0,0,0,0,0,0,0,0,spinous_process,0
+Predation,Ovis aries 45,ad,Rib,Small,1,0,0,0,0,0,0,0,0,0,0,dist_shaft,0,0
+Predation,Ovis aries 19,ad,V. Cervical,Small,0,0,0,2,0,0,0,0,transverse_process,0,0,0,0,0
+Scavenging,Capreolus capreolus 2,ad,Rib,Small,0,4,0,0,0,0,0,dist_shaft,0,0,0,0,0,0
+Predation,Ovis aries 22,juv,V. Thoracic,Small,0,0,1,0,0,0,0,0,0,0,0,0,spinous_process,0
+Scavenging,Equus caballus 41,inf,Rib,Small,0,0,0,1,0,0,0,0,other,0,0,0,0,0
+Predation,Ovis aries 32,ad,V. Cervical,Small,0,0,1,0,0,0,0,0,0,0,0,0,transverse_process,0
+Predation,Ovis aries 18,juv,Rib,Small,2,0,0,0,0,0,0,0,0,0,0,other,0,0
+Predation,Ovis aries 22,juv,V. Cervical,Small,4,0,0,1,0,0,0,0,spinous_process,0,0,spinous_process,0,0
+Predation,Ovis aries 30,ad,Rib,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Predation,Equus caballus 36,inf,V. Lumbar,Small,0,0,2,1,0,0,0,0,transverse_process,0,0,0,spinous_process,0
+Predation,Ovis aries 40,ad,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,neck,0
+Scavenging,Capreolus capreolus 2,ad,Rib,Small,0,0,0,0,0,1,0,0,0,other,0,0,0,0
+Scavenging,Capreolus capreolus 2,ad,Rib,Small,0,4,0,0,0,0,0,dist_shaft,0,0,0,0,0,0
+Predation,Ovis aries 17,sen,V. Thoracic,Small,0,0,0,0,1,0,0,0,0,0,0,0,0,spinous_process
+Predation,Sus scrofa 29,juv,Appendicular,Small,0,0,0,1,0,0,1,0,other,0,other,0,0,0
+Predation,Equus caballus 36,inf,V. Thoracic,Small,0,0,0,2,0,0,0,0,spinous_process,0,0,0,0,0
+Scavenging,Cervus elaphus 6,ad,Rib,Large,8,0,0,1,0,0,0,0,shaft,0,0,shaft,0,0
+Predation,Equus caballus 20,inf,Axial,Small,0,0,0,2,0,0,0,0,spinous_process,0,0,0,0,0
+Predation,Ovis aries 30,ad,Rib,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Scavenging,Equus caballus 41,inf,V. Thoracic,Small,1,1,0,2,0,0,0,other,transverse_process,0,0,body,0,0
+Predation,Ovis aries 22,juv,Rib,Small,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Scavenging,Equus caballus 35,inf,Girdles,Small,0,0,0,2,0,0,0,0,other,0,0,0,0,0
+Scavenging,Capra hircus 37,juv,Rib,Small,0,0,1,1,0,0,0,0,dist_shaft,0,0,0,dist_shaft,0
+Scavenging,Capreolus capreolus 2,ad,V. Lumbar,Small,1,2,1,0,1,0,0,spinous_process,0,0,0,transverse_process,other,transverse_process
+Predation,Ovis aries 22,juv,V. Thoracic,Small,2,0,0,1,0,0,0,0,spinous_process,0,0,spinous_process,0,0
+Scavenging,Equus caballus 1,ad,Girdles,Large,0,4,0,0,0,0,0,spinous_process,0,0,0,0,0,0
+Predation,Ovis aries 11,inf,Rib,Small,0,3,1,0,0,0,0,dist_shaft,0,0,0,0,dist_shaft,0
+Predation,Ovis aries 22,juv,Rib,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Scavenging,Cervus elaphus 6,ad,V. Cervical,Large,0,0,0,2,0,0,0,0,transverse_process,0,0,0,0,0
+Predation,Ovis aries 13,ad,Rib,Small,0,0,0,0,1,0,0,0,0,0,0,0,0,dist_shaft
+Predation,Ovis aries 30,ad,Rib,Small,0,0,0,0,1,1,0,0,0,other,0,0,0,dist_shaft
+Scavenging,Capreolus capreolus 5,juv,V. Lumbar,Small,0,0,1,0,0,0,0,0,0,0,0,0,transverse_process,0
+Scavenging,Capreolus capreolus 2,ad,V. Thoracic,Small,0,0,1,0,0,0,0,0,0,0,0,0,spinous_process,0
+Scavenging,Bos taurus 7,ad,V. Thoracic,Large,0,4,1,0,0,0,0,spinous_process,0,0,0,0,spinous_process,0
+Predation,Equus caballus 20,inf,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Predation,Equus caballus 36,inf,V. Thoracic,Small,0,0,0,2,0,0,0,0,spinous_process,0,0,0,0,0
+Scavenging,Cervus elaphus 6,ad,Rib,Large,0,0,1,0,0,0,0,0,0,0,0,0,neck,0
+Predation,Ovis aries 11,inf,Rib,Small,0,1,0,1,0,0,0,dist_shaft,dist_shaft,0,0,0,0,0
+Predation,Capra hircus 42,ad,Cranial,Small,2,0,1,0,0,0,0,0,0,0,0,body,other,0
+Scavenging,Cervus elaphus 16,juv,V. Thoracic,Large,0,0,0,1,0,0,0,0,spinous_process,0,0,0,0,0
+Predation,Ovis aries 39,ad,Girdles,Small,11,7,0,0,0,0,2,other,0,0,other,other,0,0
+Predation,Ovis aries 30,ad,Rib,Small,1,1,1,0,0,0,0,shaft,0,0,0,dist_shaft,dist_shaft,0
+Scavenging,Equus caballus 35,inf,V. Cervical,Small,0,0,0,3,0,0,0,0,spinous_process,0,0,0,0,0
+Predation,Ovis aries 25,ad,V. Thoracic,Small,0,0,0,1,0,0,0,0,spinous_process,0,0,0,0,0
+Predation,Ovis aries 10,ad,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,shaft,0
+Predation,Ovis aries 13,ad,V. Lumbar,Small,1,0,1,0,1,0,0,0,0,0,0,transverse_process,transverse_process,transverse_process
+Scavenging,Equus caballus 35,inf,V. Thoracic,Small,0,0,0,3,0,0,0,0,spinous_process,0,0,0,0,0
+Predation,Ovis aries 10,ad,Rib,Small,0,0,1,0,0,0,0,0,0,0,0,0,dist_shaft,0
+Predation,Ovis aries 14,sen,V. Thoracic,Small,0,0,0,0,0,1,0,0,0,spinous_process,0,0,0,0
+Scavenging,Capreolus capreolus 2,ad,Rib,Small,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Scavenging,Equus caballus 41,inf,V. Thoracic,Small,0,0,0,3,0,0,0,0,transverse_process,0,0,0,0,0
+Predation,Equus caballus 20,inf,V. Cervical,Small,0,0,0,1,0,0,0,0,transverse_process,0,0,0,0,0
+Predation,Ovis aries 25,ad,V. Lumbar,Small,0,0,0,1,0,0,0,0,spinous_process,0,0,0,0,0
+Predation,Ovis aries 22,juv,Axial,Small,1,0,0,0,0,0,0,0,0,0,0,other,0,0
+Scavenging,Cervus elaphus 6,ad,Rib,Large,0,0,0,0,1,0,0,0,0,0,0,0,0,other
+Predation,Sus scrofa 29,juv,V. Thoracic,Small,0,0,0,0,1,0,0,0,0,0,0,0,0,spinous_process
+Predation,Equus caballus 33,inf,V. Cervical,Small,0,0,0,2,0,0,0,0,spinous_process,0,0,0,0,0
+Predation,Ovis aries 9,ad,V. Thoracic,Small,0,1,0,1,0,0,0,spinous_process,spinous_process,0,0,0,0,0
+Predation,Ovis aries 45,ad,Rib,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Predation,Ovis aries 14,sen,V. Thoracic,Small,0,0,2,0,0,0,0,0,0,0,0,0,spinous_process,0
+Predation,Ovis aries 17,sen,V. Cervical,Small,0,0,0,1,0,0,0,0,other,0,0,0,0,0
+Predation,Ovis aries 22,juv,Rib,Small,1,0,0,0,0,0,0,0,0,0,0,dist_shaft,0,0
+Scavenging,Cervus elaphus 15,juv,V. Cervical,Large,2,0,0,3,0,0,1,0,spinous_process,0,body,body,0,0
+Scavenging,Equus caballus 35,inf,Rib,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Scavenging,Capra hircus 37,juv,Rib,Small,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Predation,Capra hircus 12,juv,V. Cervical,Small,0,7,0,0,0,0,2,other,0,0,body,0,0,0
+Scavenging,Bos taurus 7,ad,Rib,Large,3,6,1,0,0,0,0,dist_shaft,0,0,0,dist_shaft,dist_shaft,0
+Predation,Ovis aries 24,ad,Rib,Small,0,0,0,1,0,0,0,0,dist_shaft,0,0,0,0,0
+Scavenging,Cervus elaphus 6,ad,V. Thoracic,Large,1,0,1,0,0,0,0,0,0,0,0,spinous_process,spinous_process,0
+Predation,Ovis aries 34,ad,V. Thoracic,Small,0,0,0,1,0,0,0,0,transverse_process,0,0,0,0,0
