@@ -61,8 +61,10 @@ venv\Scripts\activate
 # Linux / macOS
 source venv/bin/activate
 
-pip install orange3 fastapi uvicorn
+pip install -r requirements.txt
 ```
+
+> ⚠️ Los modelos se guardaron con **scikit-learn 1.5.2** y necesitan **PyQt5** para cargarse. `requirements.txt` ya fija esas versiones. Con otra versión de scikit-learn la API no arranca.
 
 ### Arrancar
 
@@ -81,8 +83,8 @@ El ejemplo de animales (`main.py`) se arranca con `uvicorn main:app --reload`.
 | `POST` | `/predict-tree` | Predicción con el árbol de decisión |
 | `POST` | `/predict-bayes` | Predicción con Naive Bayes |
 | `POST` | `/predict-logisticregression` | Predicción con regresión logística |
-| `GET` | `/test-and-score` | Accuracy, Precision, Recall y F1 de los modelos sobre `damaged.csv` |
-| `GET` | `/tree-viewer` | Imagen PNG del árbol de decisión |
+| `GET` | `/test-and-score` | Accuracy, Precision, Recall y F1 (respecto a *Scavenging*) del árbol, Bayes y regresión logística sobre `damaged.csv` |
+| `GET` | `/tree-viewer` | Árbol de decisión en texto plano: cada nodo muestra `[nº Predation, nº Scavenging]` y su condición |
 
 ### Ejemplo de petición
 
@@ -127,6 +129,7 @@ curl -X POST http://localhost:8000/predict-tree \
 BearsBack/
 ├── main2.py            # API principal: predicción de depredación / carroñeo
 ├── main.py             # API de ejemplo: ave o anfibio
+├── requirements.txt    # Dependencias con versiones fijadas
 ├── damaged.csv         # Dataset de restos óseos (formato Orange)
 ├── damaged.f.csv       # Copia del dataset
 ├── animals.csv         # Dataset de ejemplo de animales
@@ -134,9 +137,9 @@ BearsBack/
 └── *.pkcls             # Modelos entrenados con Orange
 ```
 
-## ⚠️ Problemas conocidos
+> Los valores categóricos se escriben exactamente como en el dataset, respetando mayúsculas: `Small`, `Rib`, `V. Thoracic`... Si un valor no existe, la API responde `{"error": "Value xx does not exist"}`.
 
-- `/predict-logisticregression` falla: usa `DomainContinuizer`, que no está importado.
-- `/tree-viewer` falla: hace referencia a una variable `modelo` que no existe en `main2.py`.
+## ⚠️ Limitaciones
+
 - Los modelos de red neuronal, Random Forest y Gradient Boosting se cargan, pero todavía no tienen endpoint.
-- `/test-and-score` evalúa sobre los mismos datos de entrenamiento (`TestOnTrainingData`), así que las métricas salen optimistas.
+- `/test-and-score` evalúa sobre los mismos datos con los que se entrenaron los modelos, así que las métricas salen optimistas.

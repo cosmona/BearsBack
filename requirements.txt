@@ -1,0 +1,8 @@
+orange3==3.39.0
+# Los modelos .pkcls se guardaron con scikit-learn 1.5.2: con otra versión no cargan
+scikit-learn==1.5.2
+# Los modelos se guardaron desde la interfaz de Orange y necesitan Qt para cargarse
+PyQt5==5.15.11
+PyQtWebEngine==5.15.7
+fastapi==0.162.2
+uvicorn==0.54.0
